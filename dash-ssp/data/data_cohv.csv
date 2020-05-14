@@ -1,0 +1,2541 @@
+WellName,SampleDate,Variable,Result
+P1,01/11/2012,Chlorure de vinyle,"<0,1"
+P1,01/11/2012,"1,1-dichloroéthylène","<0,1"
+P1,01/11/2012,Dichlorométhane,"<0,5"
+P1,01/11/2012,"Cis-1,2 Dichloroéthylène*","<0,1"
+P1,01/11/2012,Chloroforme,"<0,1"
+P1,01/11/2012,"1,1,1, Trichloroéthane",0.17
+P1,01/11/2012,"1,1-dichloroéthane","<0,1"
+P1,01/11/2012,"Trans-1,2 Dichloroéthylène*","<0,1"
+P1,01/11/2012,"1,2-dichloroéthane","<0,1"
+P1,01/11/2012,"1,1,2, Trichloroéthane",
+P1,01/11/2012,Bromochlorométhane,
+P1,01/11/2012,Dibromométhane,
+P1,01/11/2012,Bromodichlorométhane,
+P1,01/11/2012,Dibromochlorométhane,
+P1,01/11/2012,"1,2-dibromoéthane",
+P1,01/11/2012,Bromoforme,
+P1,01/11/2012,Tétrachlorure de carbone,"<0,1"
+P1,01/11/2012,Trichloroéthylène (TCE),0.93
+P1,01/11/2012,Tétrachloroéthylène (PCE),0.17
+P1,01/11/2012,TCE+PCE,1.1
+P1,01/05/2012,Chlorure de vinyle,"<0,1"
+P1,01/05/2012,"1,1-dichloroéthylène","<0,1"
+P1,01/05/2012,Dichlorométhane,"<0,5"
+P1,01/05/2012,"Cis-1,2 Dichloroéthylène*","<0,1"
+P1,01/05/2012,Chloroforme,0.12
+P1,01/05/2012,"1,1,1, Trichloroéthane","<0,1"
+P1,01/05/2012,"1,1-dichloroéthane","<0,1"
+P1,01/05/2012,"Trans-1,2 Dichloroéthylène*","<0,1"
+P1,01/05/2012,"1,2-dichloroéthane","<0,1"
+P1,01/05/2012,"1,1,2, Trichloroéthane",
+P1,01/05/2012,Bromochlorométhane,
+P1,01/05/2012,Dibromométhane,
+P1,01/05/2012,Bromodichlorométhane,
+P1,01/05/2012,Dibromochlorométhane,
+P1,01/05/2012,"1,2-dibromoéthane",
+P1,01/05/2012,Bromoforme,
+P1,01/05/2012,Tétrachlorure de carbone,"<0,1"
+P1,01/05/2012,Trichloroéthylène (TCE),"<0,1"
+P1,01/05/2012,Tétrachloroéthylène (PCE),0.14
+P1,01/05/2012,TCE+PCE,0.14
+P1,28/10/2011,Chlorure de vinyle,<0.5
+P1,28/10/2011,"1,1-dichloroéthylène",<2
+P1,28/10/2011,Dichlorométhane,<5
+P1,28/10/2011,"Cis-1,2 Dichloroéthylène*",<2
+P1,28/10/2011,Chloroforme,<2
+P1,28/10/2011,"1,1,1, Trichloroéthane",<2
+P1,28/10/2011,"1,1-dichloroéthane",<2
+P1,28/10/2011,"Trans-1,2 Dichloroéthylène*",<2
+P1,28/10/2011,"1,2-dichloroéthane",<1
+P1,28/10/2011,"1,1,2, Trichloroéthane",<5
+P1,28/10/2011,Bromochlorométhane,<5
+P1,28/10/2011,Dibromométhane,<5
+P1,28/10/2011,Bromodichlorométhane,<5
+P1,28/10/2011,Dibromochlorométhane,<2
+P1,28/10/2011,"1,2-dibromoéthane",<1
+P1,28/10/2011,Bromoforme,<5
+P1,28/10/2011,Tétrachlorure de carbone,<1
+P1,28/10/2011,Trichloroéthylène (TCE),<1
+P1,28/10/2011,Tétrachloroéthylène (PCE),<1
+P1,28/10/2011,TCE+PCE,-
+P1,15/04/2011,Chlorure de vinyle,<0.5
+P1,15/04/2011,"1,1-dichloroéthylène",<2
+P1,15/04/2011,Dichlorométhane,<5
+P1,15/04/2011,"Cis-1,2 Dichloroéthylène*",<2
+P1,15/04/2011,Chloroforme,<2
+P1,15/04/2011,"1,1,1, Trichloroéthane",<2
+P1,15/04/2011,"1,1-dichloroéthane",<2
+P1,15/04/2011,"Trans-1,2 Dichloroéthylène*",<2
+P1,15/04/2011,"1,2-dichloroéthane",<1
+P1,15/04/2011,"1,1,2, Trichloroéthane",<5
+P1,15/04/2011,Bromochlorométhane,<5
+P1,15/04/2011,Dibromométhane,<5
+P1,15/04/2011,Bromodichlorométhane,<5
+P1,15/04/2011,Dibromochlorométhane,<2
+P1,15/04/2011,"1,2-dibromoéthane",<1
+P1,15/04/2011,Bromoforme,<5
+P1,15/04/2011,Tétrachlorure de carbone,<1
+P1,15/04/2011,Trichloroéthylène (TCE),<1
+P1,15/04/2011,Tétrachloroéthylène (PCE),<1
+P1,15/04/2011,TCE+PCE,-
+P1,28/10/2010,Chlorure de vinyle,<0.5
+P1,28/10/2010,"1,1-dichloroéthylène",<2
+P1,28/10/2010,Dichlorométhane,<5
+P1,28/10/2010,"Cis-1,2 Dichloroéthylène*",<2
+P1,28/10/2010,Chloroforme,<2
+P1,28/10/2010,"1,1,1, Trichloroéthane",<2
+P1,28/10/2010,"1,1-dichloroéthane",<2
+P1,28/10/2010,"Trans-1,2 Dichloroéthylène*",<2
+P1,28/10/2010,"1,2-dichloroéthane",<1
+P1,28/10/2010,"1,1,2, Trichloroéthane",<5
+P1,28/10/2010,Bromochlorométhane,<5
+P1,28/10/2010,Dibromométhane,<5
+P1,28/10/2010,Bromodichlorométhane,<5
+P1,28/10/2010,Dibromochlorométhane,<2
+P1,28/10/2010,"1,2-dibromoéthane",<1
+P1,28/10/2010,Bromoforme,<5
+P1,28/10/2010,Tétrachlorure de carbone,<1
+P1,28/10/2010,Trichloroéthylène (TCE),<1
+P1,28/10/2010,Tétrachloroéthylène (PCE),<1
+P1,28/10/2010,TCE+PCE,-
+P1,15/04/2010,Chlorure de vinyle,"<0,5"
+P1,15/04/2010,"1,1-dichloroéthylène",<2
+P1,15/04/2010,Dichlorométhane,<5
+P1,15/04/2010,"Cis-1,2 Dichloroéthylène*",<2
+P1,15/04/2010,Chloroforme,<2
+P1,15/04/2010,"1,1,1, Trichloroéthane",<2
+P1,15/04/2010,"1,1-dichloroéthane",<2
+P1,15/04/2010,"Trans-1,2 Dichloroéthylène*",<2
+P1,15/04/2010,"1,2-dichloroéthane",<1
+P1,15/04/2010,"1,1,2, Trichloroéthane",<5
+P1,15/04/2010,Bromochlorométhane,<5
+P1,15/04/2010,Dibromométhane,<5
+P1,15/04/2010,Bromodichlorométhane,<5
+P1,15/04/2010,Dibromochlorométhane,<2
+P1,15/04/2010,"1,2-dibromoéthane",<1
+P1,15/04/2010,Bromoforme,<5
+P1,15/04/2010,Tétrachlorure de carbone,<1
+P1,15/04/2010,Trichloroéthylène (TCE),<1
+P1,15/04/2010,Tétrachloroéthylène (PCE),<1
+P1,15/04/2010,TCE+PCE,-
+P1,28/10/2009,Chlorure de vinyle,<0.5
+P1,28/10/2009,"1,1-dichloroéthylène",<2
+P1,28/10/2009,Dichlorométhane,<5
+P1,28/10/2009,"Cis-1,2 Dichloroéthylène*",<2
+P1,28/10/2009,Chloroforme,<2
+P1,28/10/2009,"1,1,1, Trichloroéthane",<2
+P1,28/10/2009,"1,1-dichloroéthane",<2
+P1,28/10/2009,"Trans-1,2 Dichloroéthylène*",<2
+P1,28/10/2009,"1,2-dichloroéthane",<1
+P1,28/10/2009,"1,1,2, Trichloroéthane",<5
+P1,28/10/2009,Bromochlorométhane,<5
+P1,28/10/2009,Dibromométhane,<5
+P1,28/10/2009,Bromodichlorométhane,<5
+P1,28/10/2009,Dibromochlorométhane,<2
+P1,28/10/2009,"1,2-dibromoéthane",<1
+P1,28/10/2009,Bromoforme,<5
+P1,28/10/2009,Tétrachlorure de carbone,<1
+P1,28/10/2009,Trichloroéthylène (TCE),<1
+P1,28/10/2009,Tétrachloroéthylène (PCE),<1
+P1,28/10/2009,TCE+PCE,-
+P1,15/05/2009,Chlorure de vinyle,"<0,5"
+P1,15/05/2009,"1,1-dichloroéthylène",<2
+P1,15/05/2009,Dichlorométhane,<5
+P1,15/05/2009,"Cis-1,2 Dichloroéthylène*",<2
+P1,15/05/2009,Chloroforme,<2
+P1,15/05/2009,"1,1,1, Trichloroéthane",<2
+P1,15/05/2009,"1,1-dichloroéthane",<2
+P1,15/05/2009,"Trans-1,2 Dichloroéthylène*",<2
+P1,15/05/2009,"1,2-dichloroéthane",<1
+P1,15/05/2009,"1,1,2, Trichloroéthane",<5
+P1,15/05/2009,Bromochlorométhane,<5
+P1,15/05/2009,Dibromométhane,<5
+P1,15/05/2009,Bromodichlorométhane,<5
+P1,15/05/2009,Dibromochlorométhane,<2
+P1,15/05/2009,"1,2-dibromoéthane",<1
+P1,15/05/2009,Bromoforme,<5
+P1,15/05/2009,Tétrachlorure de carbone,<1
+P1,15/05/2009,Trichloroéthylène (TCE),<1
+P1,15/05/2009,Tétrachloroéthylène (PCE),<1
+P1,15/05/2009,TCE+PCE,-
+P1,13/10/2008,Chlorure de vinyle,"<0,5"
+P1,13/10/2008,"1,1-dichloroéthylène",<2
+P1,13/10/2008,Dichlorométhane,<5
+P1,13/10/2008,"Cis-1,2 Dichloroéthylène*",<2
+P1,13/10/2008,Chloroforme,<2
+P1,13/10/2008,"1,1,1, Trichloroéthane",<2
+P1,13/10/2008,"1,1-dichloroéthane",<2
+P1,13/10/2008,"Trans-1,2 Dichloroéthylène*",<2
+P1,13/10/2008,"1,2-dichloroéthane",<1
+P1,13/10/2008,"1,1,2, Trichloroéthane",<5
+P1,13/10/2008,Bromochlorométhane,<5
+P1,13/10/2008,Dibromométhane,<5
+P1,13/10/2008,Bromodichlorométhane,<5
+P1,13/10/2008,Dibromochlorométhane,<2
+P1,13/10/2008,"1,2-dibromoéthane",<1
+P1,13/10/2008,Bromoforme,<5
+P1,13/10/2008,Tétrachlorure de carbone,<1
+P1,13/10/2008,Trichloroéthylène (TCE),<1
+P1,13/10/2008,Tétrachloroéthylène (PCE),8.2
+P1,13/10/2008,TCE+PCE,8.2
+P1,01/04/2008,Chlorure de vinyle,"<0,5"
+P1,01/04/2008,"1,1-dichloroéthylène",<2
+P1,01/04/2008,Dichlorométhane,<5
+P1,01/04/2008,"Cis-1,2 Dichloroéthylène*",<2
+P1,01/04/2008,Chloroforme,<2
+P1,01/04/2008,"1,1,1, Trichloroéthane",<2
+P1,01/04/2008,"1,1-dichloroéthane",<2
+P1,01/04/2008,"Trans-1,2 Dichloroéthylène*",<2
+P1,01/04/2008,"1,2-dichloroéthane",<1
+P1,01/04/2008,"1,1,2, Trichloroéthane",<5
+P1,01/04/2008,Bromochlorométhane,<5
+P1,01/04/2008,Dibromométhane,<5
+P1,01/04/2008,Bromodichlorométhane,<5
+P1,01/04/2008,Dibromochlorométhane,<2
+P1,01/04/2008,"1,2-dibromoéthane",<1
+P1,01/04/2008,Bromoforme,<5
+P1,01/04/2008,Tétrachlorure de carbone,<1
+P1,01/04/2008,Trichloroéthylène (TCE),<1
+P1,01/04/2008,Tétrachloroéthylène (PCE),3.2
+P1,01/04/2008,TCE+PCE,3.2
+P1,01/07/2007,Chlorure de vinyle,
+P1,01/07/2007,"1,1-dichloroéthylène",
+P1,01/07/2007,Dichlorométhane,
+P1,01/07/2007,"Cis-1,2 Dichloroéthylène*",
+P1,01/07/2007,Chloroforme,
+P1,01/07/2007,"1,1,1, Trichloroéthane",
+P1,01/07/2007,"1,1-dichloroéthane",
+P1,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P1,01/07/2007,"1,2-dichloroéthane",
+P1,01/07/2007,"1,1,2, Trichloroéthane",
+P1,01/07/2007,Bromochlorométhane,
+P1,01/07/2007,Dibromométhane,
+P1,01/07/2007,Bromodichlorométhane,
+P1,01/07/2007,Dibromochlorométhane,
+P1,01/07/2007,"1,2-dibromoéthane",
+P1,01/07/2007,Bromoforme,
+P1,01/07/2007,Tétrachlorure de carbone,
+P1,01/07/2007,Trichloroéthylène (TCE),
+P1,01/07/2007,Tétrachloroéthylène (PCE),
+P1,01/07/2007,TCE+PCE,
+P1,01/12/2006,Chlorure de vinyle,"<0,5"
+P1,01/12/2006,"1,1-dichloroéthylène",
+P1,01/12/2006,Dichlorométhane,0.7
+P1,01/12/2006,"Cis-1,2 Dichloroéthylène*","<0,5"
+P1,01/12/2006,Chloroforme,"<0,5"
+P1,01/12/2006,"1,1,1, Trichloroéthane","<0,5"
+P1,01/12/2006,"1,1-dichloroéthane",
+P1,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P1,01/12/2006,"1,2-dichloroéthane",
+P1,01/12/2006,"1,1,2, Trichloroéthane",
+P1,01/12/2006,Bromochlorométhane,
+P1,01/12/2006,Dibromométhane,
+P1,01/12/2006,Bromodichlorométhane,
+P1,01/12/2006,Dibromochlorométhane,
+P1,01/12/2006,"1,2-dibromoéthane",
+P1,01/12/2006,Bromoforme,
+P1,01/12/2006,Tétrachlorure de carbone,"<0,5"
+P1,01/12/2006,Trichloroéthylène (TCE),1.6
+P1,01/12/2006,Tétrachloroéthylène (PCE),"<0,5"
+P1,01/12/2006,TCE+PCE,1.6
+P1,01/06/2006,Chlorure de vinyle,"<0,5"
+P1,01/06/2006,"1,1-dichloroéthylène",
+P1,01/06/2006,Dichlorométhane,"<0,5"
+P1,01/06/2006,"Cis-1,2 Dichloroéthylène*","<0,5"
+P1,01/06/2006,Chloroforme,"<0,5"
+P1,01/06/2006,"1,1,1, Trichloroéthane","<0,5"
+P1,01/06/2006,"1,1-dichloroéthane",
+P1,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P1,01/06/2006,"1,2-dichloroéthane",
+P1,01/06/2006,"1,1,2, Trichloroéthane",
+P1,01/06/2006,Bromochlorométhane,
+P1,01/06/2006,Dibromométhane,
+P1,01/06/2006,Bromodichlorométhane,
+P1,01/06/2006,Dibromochlorométhane,
+P1,01/06/2006,"1,2-dibromoéthane",
+P1,01/06/2006,Bromoforme,
+P1,01/06/2006,Tétrachlorure de carbone,"<0,5"
+P1,01/06/2006,Trichloroéthylène (TCE),0.6
+P1,01/06/2006,Tétrachloroéthylène (PCE),"<0,5"
+P1,01/06/2006,TCE+PCE,00/01/1900
+P1,01/12/2005,Chlorure de vinyle,"< 0,5"
+P1,01/12/2005,"1,1-dichloroéthylène",
+P1,01/12/2005,Dichlorométhane,"< 0,5"
+P1,01/12/2005,"Cis-1,2 Dichloroéthylène*",01/01/1900
+P1,01/12/2005,Chloroforme,"< 0,5"
+P1,01/12/2005,"1,1,1, Trichloroéthane","< 0,5"
+P1,01/12/2005,"1,1-dichloroéthane",
+P1,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P1,01/12/2005,"1,2-dichloroéthane",
+P1,01/12/2005,"1,1,2, Trichloroéthane",
+P1,01/12/2005,Bromochlorométhane,
+P1,01/12/2005,Dibromométhane,
+P1,01/12/2005,Bromodichlorométhane,
+P1,01/12/2005,Dibromochlorométhane,
+P1,01/12/2005,"1,2-dibromoéthane",
+P1,01/12/2005,Bromoforme,
+P1,01/12/2005,Tétrachlorure de carbone,"< 0,5"
+P1,01/12/2005,Trichloroéthylène (TCE),4.1
+P1,01/12/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P1,01/12/2005,TCE+PCE,4.1
+P1,01/07/2005,Chlorure de vinyle,"< 0,5"
+P1,01/07/2005,"1,1-dichloroéthylène",
+P1,01/07/2005,Dichlorométhane,"< 0,5"
+P1,01/07/2005,"Cis-1,2 Dichloroéthylène*","< 0,5"
+P1,01/07/2005,Chloroforme,"< 0,5"
+P1,01/07/2005,"1,1,1, Trichloroéthane","< 0,5"
+P1,01/07/2005,"1,1-dichloroéthane",
+P1,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P1,01/07/2005,"1,2-dichloroéthane",
+P1,01/07/2005,"1,1,2, Trichloroéthane",
+P1,01/07/2005,Bromochlorométhane,
+P1,01/07/2005,Dibromométhane,
+P1,01/07/2005,Bromodichlorométhane,
+P1,01/07/2005,Dibromochlorométhane,
+P1,01/07/2005,"1,2-dibromoéthane",
+P1,01/07/2005,Bromoforme,
+P1,01/07/2005,Tétrachlorure de carbone,"< 0,5"
+P1,01/07/2005,Trichloroéthylène (TCE),1.6
+P1,01/07/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P1,01/07/2005,TCE+PCE,1.6
+P1,01/12/2004,Chlorure de vinyle,"< 0,5"
+P1,01/12/2004,"1,1-dichloroéthylène",
+P1,01/12/2004,Dichlorométhane,"< 0,5"
+P1,01/12/2004,"Cis-1,2 Dichloroéthylène*","< 0,5"
+P1,01/12/2004,Chloroforme,"< 0,5"
+P1,01/12/2004,"1,1,1, Trichloroéthane","< 0,5"
+P1,01/12/2004,"1,1-dichloroéthane",
+P1,01/12/2004,"Trans-1,2 Dichloroéthylène*",
+P1,01/12/2004,"1,2-dichloroéthane",
+P1,01/12/2004,"1,1,2, Trichloroéthane",
+P1,01/12/2004,Bromochlorométhane,
+P1,01/12/2004,Dibromométhane,
+P1,01/12/2004,Bromodichlorométhane,
+P1,01/12/2004,Dibromochlorométhane,
+P1,01/12/2004,"1,2-dibromoéthane",
+P1,01/12/2004,Bromoforme,
+P1,01/12/2004,Tétrachlorure de carbone,"< 0,5"
+P1,01/12/2004,Trichloroéthylène (TCE),"< 0,5"
+P1,01/12/2004,Tétrachloroéthylène (PCE),0.8
+P1,01/12/2004,TCE+PCE,0.8
+P2,01/11/2012,Chlorure de vinyle,"<0,5"
+P2,01/11/2012,"1,1-dichloroéthylène","<0,1"
+P2,01/11/2012,Dichlorométhane,"<0,5"
+P2,01/11/2012,"Cis-1,2 Dichloroéthylène*","<0,1"
+P2,01/11/2012,Chloroforme,"<0,1"
+P2,01/11/2012,"1,1,1, Trichloroéthane","<0,1"
+P2,01/11/2012,"1,1-dichloroéthane","<0,1"
+P2,01/11/2012,"Trans-1,2 Dichloroéthylène*","<0,1"
+P2,01/11/2012,"1,2-dichloroéthane","<0,1"
+P2,01/11/2012,"1,1,2, Trichloroéthane",
+P2,01/11/2012,Bromochlorométhane,
+P2,01/11/2012,Dibromométhane,
+P2,01/11/2012,Bromodichlorométhane,
+P2,01/11/2012,Dibromochlorométhane,
+P2,01/11/2012,"1,2-dibromoéthane",
+P2,01/11/2012,Bromoforme,
+P2,01/11/2012,Tétrachlorure de carbone,"<0,1"
+P2,01/11/2012,Trichloroéthylène (TCE),"<0,1"
+P2,01/11/2012,Tétrachloroéthylène (PCE),"<0,1"
+P2,01/11/2012,TCE+PCE,<sd
+P2,01/05/2012,Chlorure de vinyle,"<0,5"
+P2,01/05/2012,"1,1-dichloroéthylène","<0,1"
+P2,01/05/2012,Dichlorométhane,"<0,5"
+P2,01/05/2012,"Cis-1,2 Dichloroéthylène*","<0,1"
+P2,01/05/2012,Chloroforme,"<0,1"
+P2,01/05/2012,"1,1,1, Trichloroéthane","<0,1"
+P2,01/05/2012,"1,1-dichloroéthane","<0,1"
+P2,01/05/2012,"Trans-1,2 Dichloroéthylène*","<0,1"
+P2,01/05/2012,"1,2-dichloroéthane","<0,1"
+P2,01/05/2012,"1,1,2, Trichloroéthane",
+P2,01/05/2012,Bromochlorométhane,
+P2,01/05/2012,Dibromométhane,
+P2,01/05/2012,Bromodichlorométhane,
+P2,01/05/2012,Dibromochlorométhane,
+P2,01/05/2012,"1,2-dibromoéthane",
+P2,01/05/2012,Bromoforme,
+P2,01/05/2012,Tétrachlorure de carbone,"<0,1"
+P2,01/05/2012,Trichloroéthylène (TCE),"<0,1"
+P2,01/05/2012,Tétrachloroéthylène (PCE),"<0,1"
+P2,01/05/2012,TCE+PCE,-
+P2,28/10/2011,Chlorure de vinyle,<0.5
+P2,28/10/2011,"1,1-dichloroéthylène",<2
+P2,28/10/2011,Dichlorométhane,<5
+P2,28/10/2011,"Cis-1,2 Dichloroéthylène*",<2
+P2,28/10/2011,Chloroforme,<2
+P2,28/10/2011,"1,1,1, Trichloroéthane",<2
+P2,28/10/2011,"1,1-dichloroéthane",<2
+P2,28/10/2011,"Trans-1,2 Dichloroéthylène*",<2
+P2,28/10/2011,"1,2-dichloroéthane",<1
+P2,28/10/2011,"1,1,2, Trichloroéthane",<5
+P2,28/10/2011,Bromochlorométhane,<5
+P2,28/10/2011,Dibromométhane,<5
+P2,28/10/2011,Bromodichlorométhane,<5
+P2,28/10/2011,Dibromochlorométhane,<2
+P2,28/10/2011,"1,2-dibromoéthane",<1
+P2,28/10/2011,Bromoforme,<5
+P2,28/10/2011,Tétrachlorure de carbone,<1
+P2,28/10/2011,Trichloroéthylène (TCE),<1
+P2,28/10/2011,Tétrachloroéthylène (PCE),<1
+P2,28/10/2011,TCE+PCE,-
+P2,15/04/2011,Chlorure de vinyle,"<0,5"
+P2,15/04/2011,"1,1-dichloroéthylène",<2
+P2,15/04/2011,Dichlorométhane,<5
+P2,15/04/2011,"Cis-1,2 Dichloroéthylène*",<2
+P2,15/04/2011,Chloroforme,<2
+P2,15/04/2011,"1,1,1, Trichloroéthane",<2
+P2,15/04/2011,"1,1-dichloroéthane",<2
+P2,15/04/2011,"Trans-1,2 Dichloroéthylène*",<2
+P2,15/04/2011,"1,2-dichloroéthane",<1
+P2,15/04/2011,"1,1,2, Trichloroéthane",<5
+P2,15/04/2011,Bromochlorométhane,<5
+P2,15/04/2011,Dibromométhane,<5
+P2,15/04/2011,Bromodichlorométhane,<5
+P2,15/04/2011,Dibromochlorométhane,<2
+P2,15/04/2011,"1,2-dibromoéthane",<1
+P2,15/04/2011,Bromoforme,<5
+P2,15/04/2011,Tétrachlorure de carbone,<1
+P2,15/04/2011,Trichloroéthylène (TCE),<1
+P2,15/04/2011,Tétrachloroéthylène (PCE),<1
+P2,15/04/2011,TCE+PCE,-
+P2,28/10/2010,Chlorure de vinyle,<0.5
+P2,28/10/2010,"1,1-dichloroéthylène",<2
+P2,28/10/2010,Dichlorométhane,<5
+P2,28/10/2010,"Cis-1,2 Dichloroéthylène*",<2
+P2,28/10/2010,Chloroforme,<2
+P2,28/10/2010,"1,1,1, Trichloroéthane",<2
+P2,28/10/2010,"1,1-dichloroéthane",<2
+P2,28/10/2010,"Trans-1,2 Dichloroéthylène*",<2
+P2,28/10/2010,"1,2-dichloroéthane",<1
+P2,28/10/2010,"1,1,2, Trichloroéthane",<5
+P2,28/10/2010,Bromochlorométhane,<5
+P2,28/10/2010,Dibromométhane,<5
+P2,28/10/2010,Bromodichlorométhane,<5
+P2,28/10/2010,Dibromochlorométhane,<2
+P2,28/10/2010,"1,2-dibromoéthane",<1
+P2,28/10/2010,Bromoforme,<5
+P2,28/10/2010,Tétrachlorure de carbone,<1
+P2,28/10/2010,Trichloroéthylène (TCE),<1
+P2,28/10/2010,Tétrachloroéthylène (PCE),<1
+P2,28/10/2010,TCE+PCE,-
+P2,15/04/2010,Chlorure de vinyle,"<0,5"
+P2,15/04/2010,"1,1-dichloroéthylène",<2
+P2,15/04/2010,Dichlorométhane,<5
+P2,15/04/2010,"Cis-1,2 Dichloroéthylène*",<2
+P2,15/04/2010,Chloroforme,<2
+P2,15/04/2010,"1,1,1, Trichloroéthane",<2
+P2,15/04/2010,"1,1-dichloroéthane",<2
+P2,15/04/2010,"Trans-1,2 Dichloroéthylène*",<2
+P2,15/04/2010,"1,2-dichloroéthane",<1
+P2,15/04/2010,"1,1,2, Trichloroéthane",<5
+P2,15/04/2010,Bromochlorométhane,<5
+P2,15/04/2010,Dibromométhane,<5
+P2,15/04/2010,Bromodichlorométhane,<5
+P2,15/04/2010,Dibromochlorométhane,<2
+P2,15/04/2010,"1,2-dibromoéthane",<1
+P2,15/04/2010,Bromoforme,<5
+P2,15/04/2010,Tétrachlorure de carbone,<1
+P2,15/04/2010,Trichloroéthylène (TCE),<1
+P2,15/04/2010,Tétrachloroéthylène (PCE),<1
+P2,15/04/2010,TCE+PCE,-
+P2,28/10/2009,Chlorure de vinyle,<0.5
+P2,28/10/2009,"1,1-dichloroéthylène",<2
+P2,28/10/2009,Dichlorométhane,<5
+P2,28/10/2009,"Cis-1,2 Dichloroéthylène*",<2
+P2,28/10/2009,Chloroforme,<2
+P2,28/10/2009,"1,1,1, Trichloroéthane",<2
+P2,28/10/2009,"1,1-dichloroéthane",<2
+P2,28/10/2009,"Trans-1,2 Dichloroéthylène*",<2
+P2,28/10/2009,"1,2-dichloroéthane",<1
+P2,28/10/2009,"1,1,2, Trichloroéthane",<5
+P2,28/10/2009,Bromochlorométhane,<5
+P2,28/10/2009,Dibromométhane,<5
+P2,28/10/2009,Bromodichlorométhane,<5
+P2,28/10/2009,Dibromochlorométhane,<2
+P2,28/10/2009,"1,2-dibromoéthane",<1
+P2,28/10/2009,Bromoforme,<5
+P2,28/10/2009,Tétrachlorure de carbone,<1
+P2,28/10/2009,Trichloroéthylène (TCE),<1
+P2,28/10/2009,Tétrachloroéthylène (PCE),<1
+P2,28/10/2009,TCE+PCE,-
+P2,15/05/2009,Chlorure de vinyle,"<0,5"
+P2,15/05/2009,"1,1-dichloroéthylène",<2
+P2,15/05/2009,Dichlorométhane,<5
+P2,15/05/2009,"Cis-1,2 Dichloroéthylène*",<2
+P2,15/05/2009,Chloroforme,<2
+P2,15/05/2009,"1,1,1, Trichloroéthane",<2
+P2,15/05/2009,"1,1-dichloroéthane",<2
+P2,15/05/2009,"Trans-1,2 Dichloroéthylène*",<2
+P2,15/05/2009,"1,2-dichloroéthane",<1
+P2,15/05/2009,"1,1,2, Trichloroéthane",<5
+P2,15/05/2009,Bromochlorométhane,<5
+P2,15/05/2009,Dibromométhane,<5
+P2,15/05/2009,Bromodichlorométhane,<5
+P2,15/05/2009,Dibromochlorométhane,<2
+P2,15/05/2009,"1,2-dibromoéthane",<1
+P2,15/05/2009,Bromoforme,<5
+P2,15/05/2009,Tétrachlorure de carbone,<1
+P2,15/05/2009,Trichloroéthylène (TCE),<1
+P2,15/05/2009,Tétrachloroéthylène (PCE),<1
+P2,15/05/2009,TCE+PCE,-
+P2,13/10/2008,Chlorure de vinyle,"<0,5"
+P2,13/10/2008,"1,1-dichloroéthylène",<2
+P2,13/10/2008,Dichlorométhane,<5
+P2,13/10/2008,"Cis-1,2 Dichloroéthylène*",<2
+P2,13/10/2008,Chloroforme,<2
+P2,13/10/2008,"1,1,1, Trichloroéthane",<2
+P2,13/10/2008,"1,1-dichloroéthane",<2
+P2,13/10/2008,"Trans-1,2 Dichloroéthylène*",<2
+P2,13/10/2008,"1,2-dichloroéthane",<1
+P2,13/10/2008,"1,1,2, Trichloroéthane",<5
+P2,13/10/2008,Bromochlorométhane,<5
+P2,13/10/2008,Dibromométhane,<5
+P2,13/10/2008,Bromodichlorométhane,<5
+P2,13/10/2008,Dibromochlorométhane,<2
+P2,13/10/2008,"1,2-dibromoéthane",<1
+P2,13/10/2008,Bromoforme,<5
+P2,13/10/2008,Tétrachlorure de carbone,<1
+P2,13/10/2008,Trichloroéthylène (TCE),11.8
+P2,13/10/2008,Tétrachloroéthylène (PCE),17.8
+P2,13/10/2008,TCE+PCE,29.6
+P2,01/04/2008,Chlorure de vinyle,"<0,5"
+P2,01/04/2008,"1,1-dichloroéthylène",<2
+P2,01/04/2008,Dichlorométhane,<5
+P2,01/04/2008,"Cis-1,2 Dichloroéthylène*",<2
+P2,01/04/2008,Chloroforme,<2
+P2,01/04/2008,"1,1,1, Trichloroéthane",<2
+P2,01/04/2008,"1,1-dichloroéthane",<2
+P2,01/04/2008,"Trans-1,2 Dichloroéthylène*",<2
+P2,01/04/2008,"1,2-dichloroéthane",<1
+P2,01/04/2008,"1,1,2, Trichloroéthane",<5
+P2,01/04/2008,Bromochlorométhane,<5
+P2,01/04/2008,Dibromométhane,<5
+P2,01/04/2008,Bromodichlorométhane,<5
+P2,01/04/2008,Dibromochlorométhane,<2
+P2,01/04/2008,"1,2-dibromoéthane",<1
+P2,01/04/2008,Bromoforme,<5
+P2,01/04/2008,Tétrachlorure de carbone,<1
+P2,01/04/2008,Trichloroéthylène (TCE),1.3
+P2,01/04/2008,Tétrachloroéthylène (PCE),2.5
+P2,01/04/2008,TCE+PCE,3.8
+P2,01/07/2007,Chlorure de vinyle,"<0,5"
+P2,01/07/2007,"1,1-dichloroéthylène","<0,5"
+P2,01/07/2007,Dichlorométhane,"<0,5"
+P2,01/07/2007,"Cis-1,2 Dichloroéthylène*","<0,5"
+P2,01/07/2007,Chloroforme,"<0,5"
+P2,01/07/2007,"1,1,1, Trichloroéthane","<0,5"
+P2,01/07/2007,"1,1-dichloroéthane",
+P2,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P2,01/07/2007,"1,2-dichloroéthane",
+P2,01/07/2007,"1,1,2, Trichloroéthane",
+P2,01/07/2007,Bromochlorométhane,
+P2,01/07/2007,Dibromométhane,
+P2,01/07/2007,Bromodichlorométhane,
+P2,01/07/2007,Dibromochlorométhane,
+P2,01/07/2007,"1,2-dibromoéthane",
+P2,01/07/2007,Bromoforme,
+P2,01/07/2007,Tétrachlorure de carbone,"<0,5"
+P2,01/07/2007,Trichloroéthylène (TCE),0.8
+P2,01/07/2007,Tétrachloroéthylène (PCE),"<0,5"
+P2,01/07/2007,TCE+PCE,0.8
+P2,01/12/2006,Chlorure de vinyle,"<0,5"
+P2,01/12/2006,"1,1-dichloroéthylène",
+P2,01/12/2006,Dichlorométhane,"<0,5"
+P2,01/12/2006,"Cis-1,2 Dichloroéthylène*","<0,5"
+P2,01/12/2006,Chloroforme,"<0,5"
+P2,01/12/2006,"1,1,1, Trichloroéthane","<0,5"
+P2,01/12/2006,"1,1-dichloroéthane",
+P2,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P2,01/12/2006,"1,2-dichloroéthane",
+P2,01/12/2006,"1,1,2, Trichloroéthane",
+P2,01/12/2006,Bromochlorométhane,
+P2,01/12/2006,Dibromométhane,
+P2,01/12/2006,Bromodichlorométhane,
+P2,01/12/2006,Dibromochlorométhane,
+P2,01/12/2006,"1,2-dibromoéthane",
+P2,01/12/2006,Bromoforme,
+P2,01/12/2006,Tétrachlorure de carbone,"<0,5"
+P2,01/12/2006,Trichloroéthylène (TCE),1.9
+P2,01/12/2006,Tétrachloroéthylène (PCE),"<0,5"
+P2,01/12/2006,TCE+PCE,1.9
+P2,01/06/2006,Chlorure de vinyle,"<0,5"
+P2,01/06/2006,"1,1-dichloroéthylène",
+P2,01/06/2006,Dichlorométhane,"<0,5"
+P2,01/06/2006,"Cis-1,2 Dichloroéthylène*","<0,5"
+P2,01/06/2006,Chloroforme,"<0,5"
+P2,01/06/2006,"1,1,1, Trichloroéthane","<0,5"
+P2,01/06/2006,"1,1-dichloroéthane",
+P2,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P2,01/06/2006,"1,2-dichloroéthane",
+P2,01/06/2006,"1,1,2, Trichloroéthane",
+P2,01/06/2006,Bromochlorométhane,
+P2,01/06/2006,Dibromométhane,
+P2,01/06/2006,Bromodichlorométhane,
+P2,01/06/2006,Dibromochlorométhane,
+P2,01/06/2006,"1,2-dibromoéthane",
+P2,01/06/2006,Bromoforme,
+P2,01/06/2006,Tétrachlorure de carbone,"<0,5"
+P2,01/06/2006,Trichloroéthylène (TCE),3.2
+P2,01/06/2006,Tétrachloroéthylène (PCE),"<0,5"
+P2,01/06/2006,TCE+PCE,3.2
+P2,01/12/2005,Chlorure de vinyle,"< 0,5"
+P2,01/12/2005,"1,1-dichloroéthylène",
+P2,01/12/2005,Dichlorométhane,"< 0,5"
+P2,01/12/2005,"Cis-1,2 Dichloroéthylène*",0.8
+P2,01/12/2005,Chloroforme,"< 0,5"
+P2,01/12/2005,"1,1,1, Trichloroéthane","< 0,5"
+P2,01/12/2005,"1,1-dichloroéthane",
+P2,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P2,01/12/2005,"1,2-dichloroéthane",
+P2,01/12/2005,"1,1,2, Trichloroéthane",
+P2,01/12/2005,Bromochlorométhane,
+P2,01/12/2005,Dibromométhane,
+P2,01/12/2005,Bromodichlorométhane,
+P2,01/12/2005,Dibromochlorométhane,
+P2,01/12/2005,"1,2-dibromoéthane",
+P2,01/12/2005,Bromoforme,
+P2,01/12/2005,Tétrachlorure de carbone,"< 0,5"
+P2,01/12/2005,Trichloroéthylène (TCE),7.9
+P2,01/12/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P2,01/12/2005,TCE+PCE,7.9
+P2,01/07/2005,Chlorure de vinyle,"< 0,5"
+P2,01/07/2005,"1,1-dichloroéthylène",
+P2,01/07/2005,Dichlorométhane,"< 0,5"
+P2,01/07/2005,"Cis-1,2 Dichloroéthylène*","< 0,5"
+P2,01/07/2005,Chloroforme,"< 0,5"
+P2,01/07/2005,"1,1,1, Trichloroéthane","< 0,5"
+P2,01/07/2005,"1,1-dichloroéthane",
+P2,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P2,01/07/2005,"1,2-dichloroéthane",
+P2,01/07/2005,"1,1,2, Trichloroéthane",
+P2,01/07/2005,Bromochlorométhane,
+P2,01/07/2005,Dibromométhane,
+P2,01/07/2005,Bromodichlorométhane,
+P2,01/07/2005,Dibromochlorométhane,
+P2,01/07/2005,"1,2-dibromoéthane",
+P2,01/07/2005,Bromoforme,
+P2,01/07/2005,Tétrachlorure de carbone,"< 0,5"
+P2,01/07/2005,Trichloroéthylène (TCE),"< 0,5"
+P2,01/07/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P2,01/07/2005,TCE+PCE,-
+P2,01/12/2004,Chlorure de vinyle,"< 0,5"
+P2,01/12/2004,"1,1-dichloroéthylène",
+P2,01/12/2004,Dichlorométhane,"< 0,5"
+P2,01/12/2004,"Cis-1,2 Dichloroéthylène*","< 0,5"
+P2,01/12/2004,Chloroforme,"< 0,5"
+P2,01/12/2004,"1,1,1, Trichloroéthane","< 0,5"
+P2,01/12/2004,"1,1-dichloroéthane",
+P2,01/12/2004,"Trans-1,2 Dichloroéthylène*",
+P2,01/12/2004,"1,2-dichloroéthane",
+P2,01/12/2004,"1,1,2, Trichloroéthane",
+P2,01/12/2004,Bromochlorométhane,
+P2,01/12/2004,Dibromométhane,
+P2,01/12/2004,Bromodichlorométhane,
+P2,01/12/2004,Dibromochlorométhane,
+P2,01/12/2004,"1,2-dibromoéthane",
+P2,01/12/2004,Bromoforme,
+P2,01/12/2004,Tétrachlorure de carbone,"< 0,5"
+P2,01/12/2004,Trichloroéthylène (TCE),"< 0,5"
+P2,01/12/2004,Tétrachloroéthylène (PCE),"< 0,5"
+P2,01/12/2004,TCE+PCE,-
+P3,01/11/2012,Chlorure de vinyle,2.1
+P3,01/11/2012,"1,1-dichloroéthylène",7.4
+P3,01/11/2012,Dichlorométhane,"<0,5"
+P3,01/11/2012,"Cis-1,2 Dichloroéthylène*",230
+P3,01/11/2012,Chloroforme,<1
+P3,01/11/2012,"1,1,1, Trichloroéthane",1.1
+P3,01/11/2012,"1,1-dichloroéthane",5.1
+P3,01/11/2012,"Trans-1,2 Dichloroéthylène*",30
+P3,01/11/2012,"1,2-dichloroéthane","<0,1"
+P3,01/11/2012,"1,1,2, Trichloroéthane",
+P3,01/11/2012,Bromochlorométhane,
+P3,01/11/2012,Dibromométhane,
+P3,01/11/2012,Bromodichlorométhane,
+P3,01/11/2012,Dibromochlorométhane,
+P3,01/11/2012,"1,2-dibromoéthane",
+P3,01/11/2012,Bromoforme,
+P3,01/11/2012,Tétrachlorure de carbone,"<0,1"
+P3,01/11/2012,Trichloroéthylène (TCE),420
+P3,01/11/2012,Tétrachloroéthylène (PCE),<1
+P3,01/11/2012,TCE+PCE,420
+P3,01/05/2012,Chlorure de vinyle,<4
+P3,01/05/2012,"1,1-dichloroéthylène",6.7
+P3,01/05/2012,Dichlorométhane,<20
+P3,01/05/2012,"Cis-1,2 Dichloroéthylène*",490
+P3,01/05/2012,Chloroforme,2.2
+P3,01/05/2012,"1,1,1, Trichloroéthane",<4
+P3,01/05/2012,"1,1-dichloroéthane",6.8
+P3,01/05/2012,"Trans-1,2 Dichloroéthylène*",19
+P3,01/05/2012,"1,2-dichloroéthane",<4
+P3,01/05/2012,"1,1,2, Trichloroéthane",
+P3,01/05/2012,Bromochlorométhane,
+P3,01/05/2012,Dibromométhane,
+P3,01/05/2012,Bromodichlorométhane,
+P3,01/05/2012,Dibromochlorométhane,
+P3,01/05/2012,"1,2-dibromoéthane",
+P3,01/05/2012,Bromoforme,
+P3,01/05/2012,Tétrachlorure de carbone,<4
+P3,01/05/2012,Trichloroéthylène (TCE),1000
+P3,01/05/2012,Tétrachloroéthylène (PCE),<4
+P3,01/05/2012,TCE+PCE,1000
+P3,28/10/2011,Chlorure de vinyle,"<0,5"
+P3,28/10/2011,"1,1-dichloroéthylène",23.7
+P3,28/10/2011,Dichlorométhane,<5
+P3,28/10/2011,"Cis-1,2 Dichloroéthylène*",501
+P3,28/10/2011,Chloroforme,2.4
+P3,28/10/2011,"1,1,1, Trichloroéthane",3
+P3,28/10/2011,"1,1-dichloroéthane",9.2
+P3,28/10/2011,"Trans-1,2 Dichloroéthylène*",<2
+P3,28/10/2011,"1,2-dichloroéthane",<1
+P3,28/10/2011,"1,1,2, Trichloroéthane",<5
+P3,28/10/2011,Bromochlorométhane,<5
+P3,28/10/2011,Dibromométhane,<5
+P3,28/10/2011,Bromodichlorométhane,<5
+P3,28/10/2011,Dibromochlorométhane,<2
+P3,28/10/2011,"1,2-dibromoéthane",<1
+P3,28/10/2011,Bromoforme,<5
+P3,28/10/2011,Tétrachlorure de carbone,<1
+P3,28/10/2011,Trichloroéthylène (TCE),1690
+P3,28/10/2011,Tétrachloroéthylène (PCE),2.3
+P3,28/10/2011,TCE+PCE,1692.3
+P3,15/04/2011,Chlorure de vinyle,"<0,5"
+P3,15/04/2011,"1,1-dichloroéthylène",5.8
+P3,15/04/2011,Dichlorométhane,<5
+P3,15/04/2011,"Cis-1,2 Dichloroéthylène*",183
+P3,15/04/2011,Chloroforme,<2
+P3,15/04/2011,"1,1,1, Trichloroéthane",<2
+P3,15/04/2011,"1,1-dichloroéthane",4
+P3,15/04/2011,"Trans-1,2 Dichloroéthylène*",<2
+P3,15/04/2011,"1,2-dichloroéthane",<1
+P3,15/04/2011,"1,1,2, Trichloroéthane",<5
+P3,15/04/2011,Bromochlorométhane,<5
+P3,15/04/2011,Dibromométhane,<5
+P3,15/04/2011,Bromodichlorométhane,<5
+P3,15/04/2011,Dibromochlorométhane,<2
+P3,15/04/2011,"1,2-dibromoéthane",<1
+P3,15/04/2011,Bromoforme,<5
+P3,15/04/2011,Tétrachlorure de carbone,<1
+P3,15/04/2011,Trichloroéthylène (TCE),335
+P3,15/04/2011,Tétrachloroéthylène (PCE),<1
+P3,15/04/2011,TCE+PCE,335
+P3,28/10/2010,Chlorure de vinyle,"<0,5"
+P3,28/10/2010,"1,1-dichloroéthylène",18.4
+P3,28/10/2010,Dichlorométhane,<5
+P3,28/10/2010,"Cis-1,2 Dichloroéthylène*",289
+P3,28/10/2010,Chloroforme,2
+P3,28/10/2010,"1,1,1, Trichloroéthane",<2
+P3,28/10/2010,"1,1-dichloroéthane",4
+P3,28/10/2010,"Trans-1,2 Dichloroéthylène*",<2
+P3,28/10/2010,"1,2-dichloroéthane",<1
+P3,28/10/2010,"1,1,2, Trichloroéthane",<5
+P3,28/10/2010,Bromochlorométhane,<5
+P3,28/10/2010,Dibromométhane,<5
+P3,28/10/2010,Bromodichlorométhane,<5
+P3,28/10/2010,Dibromochlorométhane,<2
+P3,28/10/2010,"1,2-dibromoéthane",<1
+P3,28/10/2010,Bromoforme,<5
+P3,28/10/2010,Tétrachlorure de carbone,<1
+P3,28/10/2010,Trichloroéthylène (TCE),925
+P3,28/10/2010,Tétrachloroéthylène (PCE),1.9
+P3,28/10/2010,TCE+PCE,926.9
+P3,15/04/2010,Chlorure de vinyle,"<0,5"
+P3,15/04/2010,"1,1-dichloroéthylène",37
+P3,15/04/2010,Dichlorométhane,<5
+P3,15/04/2010,"Cis-1,2 Dichloroéthylène*",496
+P3,15/04/2010,Chloroforme,<5
+P3,15/04/2010,"1,1,1, Trichloroéthane",3
+P3,15/04/2010,"1,1-dichloroéthane",5.5
+P3,15/04/2010,"Trans-1,2 Dichloroéthylène*",<2
+P3,15/04/2010,"1,2-dichloroéthane",<1
+P3,15/04/2010,"1,1,2, Trichloroéthane",9.1
+P3,15/04/2010,Bromochlorométhane,<5
+P3,15/04/2010,Dibromométhane,<5
+P3,15/04/2010,Bromodichlorométhane,<5
+P3,15/04/2010,Dibromochlorométhane,<2
+P3,15/04/2010,"1,2-dibromoéthane",<1
+P3,15/04/2010,Bromoforme,<5
+P3,15/04/2010,Tétrachlorure de carbone,<1
+P3,15/04/2010,Trichloroéthylène (TCE),2840
+P3,15/04/2010,Tétrachloroéthylène (PCE),3.1
+P3,15/04/2010,TCE+PCE,2843.1
+P3,28/10/2009,Chlorure de vinyle,"<0,5"
+P3,28/10/2009,"1,1-dichloroéthylène",22.4
+P3,28/10/2009,Dichlorométhane,<5
+P3,28/10/2009,"Cis-1,2 Dichloroéthylène*",327
+P3,28/10/2009,Chloroforme,<2
+P3,28/10/2009,"1,1,1, Trichloroéthane",3.4
+P3,28/10/2009,"1,1-dichloroéthane",2.5
+P3,28/10/2009,"Trans-1,2 Dichloroéthylène*",<2
+P3,28/10/2009,"1,2-dichloroéthane",<1
+P3,28/10/2009,"1,1,2, Trichloroéthane",5.8
+P3,28/10/2009,Bromochlorométhane,<5
+P3,28/10/2009,Dibromométhane,<5
+P3,28/10/2009,Bromodichlorométhane,<5
+P3,28/10/2009,Dibromochlorométhane,<2
+P3,28/10/2009,"1,2-dibromoéthane",<1
+P3,28/10/2009,Bromoforme,<5
+P3,28/10/2009,Tétrachlorure de carbone,<1
+P3,28/10/2009,Trichloroéthylène (TCE),1350
+P3,28/10/2009,Tétrachloroéthylène (PCE),2.3
+P3,28/10/2009,TCE+PCE,1352.3
+P3,15/05/2009,Chlorure de vinyle,"<0,5"
+P3,15/05/2009,"1,1-dichloroéthylène",18.5
+P3,15/05/2009,Dichlorométhane,<5
+P3,15/05/2009,"Cis-1,2 Dichloroéthylène*",572
+P3,15/05/2009,Chloroforme,<2
+P3,15/05/2009,"1,1,1, Trichloroéthane",2.8
+P3,15/05/2009,"1,1-dichloroéthane",6.1
+P3,15/05/2009,"Trans-1,2 Dichloroéthylène*",<2
+P3,15/05/2009,"1,2-dichloroéthane",<1
+P3,15/05/2009,"1,1,2, Trichloroéthane",8.2
+P3,15/05/2009,Bromochlorométhane,<5
+P3,15/05/2009,Dibromométhane,<5
+P3,15/05/2009,Bromodichlorométhane,<5
+P3,15/05/2009,Dibromochlorométhane,<2
+P3,15/05/2009,"1,2-dibromoéthane",<1
+P3,15/05/2009,Bromoforme,<5
+P3,15/05/2009,Tétrachlorure de carbone,<1
+P3,15/05/2009,Trichloroéthylène (TCE),24/11/1906
+P3,15/05/2009,Tétrachloroéthylène (PCE),03/01/1900
+P3,15/05/2009,TCE+PCE,27/11/1906
+P3,13/10/2008,Chlorure de vinyle,"<0,5"
+P3,13/10/2008,"1,1-dichloroéthylène",31/01/1900
+P3,13/10/2008,Dichlorométhane,<5
+P3,13/10/2008,"Cis-1,2 Dichloroéthylène*",293
+P3,13/10/2008,Chloroforme,<2
+P3,13/10/2008,"1,1,1, Trichloroéthane",5.1
+P3,13/10/2008,"1,1-dichloroéthane",3.9
+P3,13/10/2008,"Trans-1,2 Dichloroéthylène*",<2
+P3,13/10/2008,"1,2-dichloroéthane",<1
+P3,13/10/2008,"1,1,2, Trichloroéthane",<5
+P3,13/10/2008,Bromochlorométhane,<5
+P3,13/10/2008,Dibromométhane,<5
+P3,13/10/2008,Bromodichlorométhane,<5
+P3,13/10/2008,Dibromochlorométhane,<2
+P3,13/10/2008,"1,2-dibromoéthane",<1
+P3,13/10/2008,Bromoforme,<5
+P3,13/10/2008,Tétrachlorure de carbone,<1
+P3,13/10/2008,Trichloroéthylène (TCE),1410
+P3,13/10/2008,Tétrachloroéthylène (PCE),7.4
+P3,13/10/2008,TCE+PCE,1417.4
+P3,01/04/2008,Chlorure de vinyle,"<0,5"
+P3,01/04/2008,"1,1-dichloroéthylène",22.3
+P3,01/04/2008,Dichlorométhane,<5
+P3,01/04/2008,"Cis-1,2 Dichloroéthylène*",361
+P3,01/04/2008,Chloroforme,2.4
+P3,01/04/2008,"1,1,1, Trichloroéthane",3
+P3,01/04/2008,"1,1-dichloroéthane",3.7
+P3,01/04/2008,"Trans-1,2 Dichloroéthylène*",<2
+P3,01/04/2008,"1,2-dichloroéthane",<1
+P3,01/04/2008,"1,1,2, Trichloroéthane",<5
+P3,01/04/2008,Bromochlorométhane,<5
+P3,01/04/2008,Dibromométhane,<5
+P3,01/04/2008,Bromodichlorométhane,<5
+P3,01/04/2008,Dibromochlorométhane,<2
+P3,01/04/2008,"1,2-dibromoéthane",<1
+P3,01/04/2008,Bromoforme,<5
+P3,01/04/2008,Tétrachlorure de carbone,<1
+P3,01/04/2008,Trichloroéthylène (TCE),1610
+P3,01/04/2008,Tétrachloroéthylène (PCE),5
+P3,01/04/2008,TCE+PCE,1615
+P3,01/07/2007,Chlorure de vinyle,"<0,5"
+P3,01/07/2007,"1,1-dichloroéthylène",15
+P3,01/07/2007,Dichlorométhane,"<0,5"
+P3,01/07/2007,"Cis-1,2 Dichloroéthylène*",81
+P3,01/07/2007,Chloroforme,"<0,5"
+P3,01/07/2007,"1,1,1, Trichloroéthane",2.5
+P3,01/07/2007,"1,1-dichloroéthane",
+P3,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P3,01/07/2007,"1,2-dichloroéthane",
+P3,01/07/2007,"1,1,2, Trichloroéthane",
+P3,01/07/2007,Bromochlorométhane,
+P3,01/07/2007,Dibromométhane,
+P3,01/07/2007,Bromodichlorométhane,
+P3,01/07/2007,Dibromochlorométhane,
+P3,01/07/2007,"1,2-dibromoéthane",
+P3,01/07/2007,Bromoforme,
+P3,01/07/2007,Tétrachlorure de carbone,"<0,5"
+P3,01/07/2007,Trichloroéthylène (TCE),260
+P3,01/07/2007,Tétrachloroéthylène (PCE),"<0,5"
+P3,01/07/2007,TCE+PCE,260
+P3,01/12/2006,Chlorure de vinyle,"<0,5"
+P3,01/12/2006,"1,1-dichloroéthylène",
+P3,01/12/2006,Dichlorométhane,0.6
+P3,01/12/2006,"Cis-1,2 Dichloroéthylène*",210
+P3,01/12/2006,Chloroforme,1.6
+P3,01/12/2006,"1,1,1, Trichloroéthane",7.4
+P3,01/12/2006,"1,1-dichloroéthane",
+P3,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P3,01/12/2006,"1,2-dichloroéthane",
+P3,01/12/2006,"1,1,2, Trichloroéthane",
+P3,01/12/2006,Bromochlorométhane,
+P3,01/12/2006,Dibromométhane,
+P3,01/12/2006,Bromodichlorométhane,
+P3,01/12/2006,Dibromochlorométhane,
+P3,01/12/2006,"1,2-dibromoéthane",
+P3,01/12/2006,Bromoforme,
+P3,01/12/2006,Tétrachlorure de carbone,"<0,5"
+P3,01/12/2006,Trichloroéthylène (TCE),990
+P3,01/12/2006,Tétrachloroéthylène (PCE),"<0,5"
+P3,01/12/2006,TCE+PCE,990
+P3,01/06/2006,Chlorure de vinyle,"<0,5"
+P3,01/06/2006,"1,1-dichloroéthylène",
+P3,01/06/2006,Dichlorométhane,"<0,5"
+P3,01/06/2006,"Cis-1,2 Dichloroéthylène*",300
+P3,01/06/2006,Chloroforme,2.1
+P3,01/06/2006,"1,1,1, Trichloroéthane",5.7
+P3,01/06/2006,"1,1-dichloroéthane",
+P3,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P3,01/06/2006,"1,2-dichloroéthane",
+P3,01/06/2006,"1,1,2, Trichloroéthane",
+P3,01/06/2006,Bromochlorométhane,
+P3,01/06/2006,Dibromométhane,
+P3,01/06/2006,Bromodichlorométhane,
+P3,01/06/2006,Dibromochlorométhane,
+P3,01/06/2006,"1,2-dibromoéthane",
+P3,01/06/2006,Bromoforme,
+P3,01/06/2006,Tétrachlorure de carbone,"<0,5"
+P3,01/06/2006,Trichloroéthylène (TCE),1600
+P3,01/06/2006,Tétrachloroéthylène (PCE),1.1
+P3,01/06/2006,TCE+PCE,1601.1
+P3,01/12/2005,Chlorure de vinyle,"< 0,5"
+P3,01/12/2005,"1,1-dichloroéthylène",
+P3,01/12/2005,Dichlorométhane,"< 0,5"
+P3,01/12/2005,"Cis-1,2 Dichloroéthylène*",360
+P3,01/12/2005,Chloroforme,2.4
+P3,01/12/2005,"1,1,1, Trichloroéthane",14
+P3,01/12/2005,"1,1-dichloroéthane",
+P3,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P3,01/12/2005,"1,2-dichloroéthane",
+P3,01/12/2005,"1,1,2, Trichloroéthane",
+P3,01/12/2005,Bromochlorométhane,
+P3,01/12/2005,Dibromométhane,
+P3,01/12/2005,Bromodichlorométhane,
+P3,01/12/2005,Dibromochlorométhane,
+P3,01/12/2005,"1,2-dibromoéthane",
+P3,01/12/2005,Bromoforme,
+P3,01/12/2005,Tétrachlorure de carbone,1
+P3,01/12/2005,Trichloroéthylène (TCE),2300
+P3,01/12/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P3,01/12/2005,TCE+PCE,2300
+P3,01/07/2005,Chlorure de vinyle,"< 0,5"
+P3,01/07/2005,"1,1-dichloroéthylène",
+P3,01/07/2005,Dichlorométhane,"< 0,5"
+P3,01/07/2005,"Cis-1,2 Dichloroéthylène*",380
+P3,01/07/2005,Chloroforme,1.7
+P3,01/07/2005,"1,1,1, Trichloroéthane",6.6
+P3,01/07/2005,"1,1-dichloroéthane",
+P3,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P3,01/07/2005,"1,2-dichloroéthane",
+P3,01/07/2005,"1,1,2, Trichloroéthane",
+P3,01/07/2005,Bromochlorométhane,
+P3,01/07/2005,Dibromométhane,
+P3,01/07/2005,Bromodichlorométhane,
+P3,01/07/2005,Dibromochlorométhane,
+P3,01/07/2005,"1,2-dibromoéthane",
+P3,01/07/2005,Bromoforme,
+P3,01/07/2005,Tétrachlorure de carbone,"< 0,5"
+P3,01/07/2005,Trichloroéthylène (TCE),1400
+P3,01/07/2005,Tétrachloroéthylène (PCE),1.3
+P3,01/07/2005,TCE+PCE,1401.3
+P3,01/12/2004,Chlorure de vinyle,2.3
+P3,01/12/2004,"1,1-dichloroéthylène",
+P3,01/12/2004,Dichlorométhane,"< 0,5"
+P3,01/12/2004,"Cis-1,2 Dichloroéthylène*",490
+P3,01/12/2004,Chloroforme,2.4
+P3,01/12/2004,"1,1,1, Trichloroéthane",12
+P3,01/12/2004,"1,1-dichloroéthane",
+P3,01/12/2004,"Trans-1,2 Dichloroéthylène*",
+P3,01/12/2004,"1,2-dichloroéthane",
+P3,01/12/2004,"1,1,2, Trichloroéthane",
+P3,01/12/2004,Bromochlorométhane,
+P3,01/12/2004,Dibromométhane,
+P3,01/12/2004,Bromodichlorométhane,
+P3,01/12/2004,Dibromochlorométhane,
+P3,01/12/2004,"1,2-dibromoéthane",
+P3,01/12/2004,Bromoforme,
+P3,01/12/2004,Tétrachlorure de carbone,"< 0,5"
+P3,01/12/2004,Trichloroéthylène (TCE),2600
+P3,01/12/2004,Tétrachloroéthylène (PCE),2.3
+P3,01/12/2004,TCE+PCE,2602.3
+P4,01/11/2012,Chlorure de vinyle,"<0,1"
+P4,01/11/2012,"1,1-dichloroéthylène","<0,1"
+P4,01/11/2012,Dichlorométhane,"<0,5"
+P4,01/11/2012,"Cis-1,2 Dichloroéthylène*",61
+P4,01/11/2012,Chloroforme,"<0,1"
+P4,01/11/2012,"1,1,1, Trichloroéthane",3.2
+P4,01/11/2012,"1,1-dichloroéthane",1.2
+P4,01/11/2012,"Trans-1,2 Dichloroéthylène*",9.4
+P4,01/11/2012,"1,2-dichloroéthane","<0,1"
+P4,01/11/2012,"1,1,2, Trichloroéthane",
+P4,01/11/2012,Bromochlorométhane,
+P4,01/11/2012,Dibromométhane,
+P4,01/11/2012,Bromodichlorométhane,
+P4,01/11/2012,Dibromochlorométhane,
+P4,01/11/2012,"1,2-dibromoéthane",
+P4,01/11/2012,Bromoforme,
+P4,01/11/2012,Tétrachlorure de carbone,"<0,1"
+P4,01/11/2012,Trichloroéthylène (TCE),5.4
+P4,01/11/2012,Tétrachloroéthylène (PCE),0.72
+P4,01/11/2012,TCE+PCE,6.12
+P4,01/05/2012,Chlorure de vinyle,"<0,1"
+P4,01/05/2012,"1,1-dichloroéthylène","<0,1"
+P4,01/05/2012,Dichlorométhane,"<0,5"
+P4,01/05/2012,"Cis-1,2 Dichloroéthylène*",48
+P4,01/05/2012,Chloroforme,"<0,1"
+P4,01/05/2012,"1,1,1, Trichloroéthane",2
+P4,01/05/2012,"1,1-dichloroéthane",0.58
+P4,01/05/2012,"Trans-1,2 Dichloroéthylène*",3.1
+P4,01/05/2012,"1,2-dichloroéthane","<0,1"
+P4,01/05/2012,"1,1,2, Trichloroéthane",
+P4,01/05/2012,Bromochlorométhane,
+P4,01/05/2012,Dibromométhane,
+P4,01/05/2012,Bromodichlorométhane,
+P4,01/05/2012,Dibromochlorométhane,
+P4,01/05/2012,"1,2-dibromoéthane",
+P4,01/05/2012,Bromoforme,
+P4,01/05/2012,Tétrachlorure de carbone,"<0,1"
+P4,01/05/2012,Trichloroéthylène (TCE),3
+P4,01/05/2012,Tétrachloroéthylène (PCE),0.31
+P4,01/05/2012,TCE+PCE,3.31
+P4,28/10/2011,Chlorure de vinyle,"<0,5"
+P4,28/10/2011,"1,1-dichloroéthylène",<2
+P4,28/10/2011,Dichlorométhane,<5
+P4,28/10/2011,"Cis-1,2 Dichloroéthylène*",157
+P4,28/10/2011,Chloroforme,<2
+P4,28/10/2011,"1,1,1, Trichloroéthane",2.4
+P4,28/10/2011,"1,1-dichloroéthane",<2
+P4,28/10/2011,"Trans-1,2 Dichloroéthylène*",<2
+P4,28/10/2011,"1,2-dichloroéthane",<1
+P4,28/10/2011,"1,1,2, Trichloroéthane",<5
+P4,28/10/2011,Bromochlorométhane,<5
+P4,28/10/2011,Dibromométhane,<5
+P4,28/10/2011,Bromodichlorométhane,<5
+P4,28/10/2011,Dibromochlorométhane,<2
+P4,28/10/2011,"1,2-dibromoéthane",<1
+P4,28/10/2011,Bromoforme,<5
+P4,28/10/2011,Tétrachlorure de carbone,<1
+P4,28/10/2011,Trichloroéthylène (TCE),10.2
+P4,28/10/2011,Tétrachloroéthylène (PCE),<1
+P4,28/10/2011,TCE+PCE,10.2
+P4,15/04/2011,Chlorure de vinyle,"<0,5"
+P4,15/04/2011,"1,1-dichloroéthylène",<2
+P4,15/04/2011,Dichlorométhane,<5
+P4,15/04/2011,"Cis-1,2 Dichloroéthylène*",114
+P4,15/04/2011,Chloroforme,<2
+P4,15/04/2011,"1,1,1, Trichloroéthane",2.7
+P4,15/04/2011,"1,1-dichloroéthane",<2
+P4,15/04/2011,"Trans-1,2 Dichloroéthylène*",<2
+P4,15/04/2011,"1,2-dichloroéthane",<1
+P4,15/04/2011,"1,1,2, Trichloroéthane",<5
+P4,15/04/2011,Bromochlorométhane,<5
+P4,15/04/2011,Dibromométhane,<5
+P4,15/04/2011,Bromodichlorométhane,<5
+P4,15/04/2011,Dibromochlorométhane,<2
+P4,15/04/2011,"1,2-dibromoéthane",<1
+P4,15/04/2011,Bromoforme,<5
+P4,15/04/2011,Tétrachlorure de carbone,<1
+P4,15/04/2011,Trichloroéthylène (TCE),7.9
+P4,15/04/2011,Tétrachloroéthylène (PCE),<1
+P4,15/04/2011,TCE+PCE,7.9
+P4,28/10/2010,Chlorure de vinyle,"<0,5"
+P4,28/10/2010,"1,1-dichloroéthylène",<2
+P4,28/10/2010,Dichlorométhane,<5
+P4,28/10/2010,"Cis-1,2 Dichloroéthylène*",77.8
+P4,28/10/2010,Chloroforme,<2
+P4,28/10/2010,"1,1,1, Trichloroéthane",<2
+P4,28/10/2010,"1,1-dichloroéthane",<2
+P4,28/10/2010,"Trans-1,2 Dichloroéthylène*",<2
+P4,28/10/2010,"1,2-dichloroéthane",<1
+P4,28/10/2010,"1,1,2, Trichloroéthane",<5
+P4,28/10/2010,Bromochlorométhane,<5
+P4,28/10/2010,Dibromométhane,<5
+P4,28/10/2010,Bromodichlorométhane,<5
+P4,28/10/2010,Dibromochlorométhane,<2
+P4,28/10/2010,"1,2-dibromoéthane",<1
+P4,28/10/2010,Bromoforme,<5
+P4,28/10/2010,Tétrachlorure de carbone,<1
+P4,28/10/2010,Trichloroéthylène (TCE),7.1
+P4,28/10/2010,Tétrachloroéthylène (PCE),<1
+P4,28/10/2010,TCE+PCE,7.1
+P4,15/04/2010,Chlorure de vinyle,"<0,5"
+P4,15/04/2010,"1,1-dichloroéthylène",<2
+P4,15/04/2010,Dichlorométhane,<5
+P4,15/04/2010,"Cis-1,2 Dichloroéthylène*",76
+P4,15/04/2010,Chloroforme,<2
+P4,15/04/2010,"1,1,1, Trichloroéthane",3.8
+P4,15/04/2010,"1,1-dichloroéthane",<2
+P4,15/04/2010,"Trans-1,2 Dichloroéthylène*",<2
+P4,15/04/2010,"1,2-dichloroéthane",<1
+P4,15/04/2010,"1,1,2, Trichloroéthane",<5
+P4,15/04/2010,Bromochlorométhane,<5
+P4,15/04/2010,Dibromométhane,<5
+P4,15/04/2010,Bromodichlorométhane,<5
+P4,15/04/2010,Dibromochlorométhane,<2
+P4,15/04/2010,"1,2-dibromoéthane",<1
+P4,15/04/2010,Bromoforme,<5
+P4,15/04/2010,Tétrachlorure de carbone,<1
+P4,15/04/2010,Trichloroéthylène (TCE),10
+P4,15/04/2010,Tétrachloroéthylène (PCE),<1
+P4,15/04/2010,TCE+PCE,10
+P4,28/10/2009,Chlorure de vinyle,"<0,5"
+P4,28/10/2009,"1,1-dichloroéthylène",<2
+P4,28/10/2009,Dichlorométhane,<5
+P4,28/10/2009,"Cis-1,2 Dichloroéthylène*",59.9
+P4,28/10/2009,Chloroforme,<2
+P4,28/10/2009,"1,1,1, Trichloroéthane",4.1
+P4,28/10/2009,"1,1-dichloroéthane",<2
+P4,28/10/2009,"Trans-1,2 Dichloroéthylène*",<2
+P4,28/10/2009,"1,2-dichloroéthane",<1
+P4,28/10/2009,"1,1,2, Trichloroéthane",<5
+P4,28/10/2009,Bromochlorométhane,<5
+P4,28/10/2009,Dibromométhane,<5
+P4,28/10/2009,Bromodichlorométhane,<5
+P4,28/10/2009,Dibromochlorométhane,<2
+P4,28/10/2009,"1,2-dibromoéthane",<1
+P4,28/10/2009,Bromoforme,<5
+P4,28/10/2009,Tétrachlorure de carbone,<1
+P4,28/10/2009,Trichloroéthylène (TCE),8.2
+P4,28/10/2009,Tétrachloroéthylène (PCE),<1
+P4,28/10/2009,TCE+PCE,8.2
+P4,15/05/2009,Chlorure de vinyle,"<0,5"
+P4,15/05/2009,"1,1-dichloroéthylène",<2
+P4,15/05/2009,Dichlorométhane,<5
+P4,15/05/2009,"Cis-1,2 Dichloroéthylène*",63.2
+P4,15/05/2009,Chloroforme,<2
+P4,15/05/2009,"1,1,1, Trichloroéthane",7.4
+P4,15/05/2009,"1,1-dichloroéthane",<2
+P4,15/05/2009,"Trans-1,2 Dichloroéthylène*",<2
+P4,15/05/2009,"1,2-dichloroéthane",<1
+P4,15/05/2009,"1,1,2, Trichloroéthane",<5
+P4,15/05/2009,Bromochlorométhane,<5
+P4,15/05/2009,Dibromométhane,<5
+P4,15/05/2009,Bromodichlorométhane,<5
+P4,15/05/2009,Dibromochlorométhane,<2
+P4,15/05/2009,"1,2-dibromoéthane",<1
+P4,15/05/2009,Bromoforme,<5
+P4,15/05/2009,Tétrachlorure de carbone,<1
+P4,15/05/2009,Trichloroéthylène (TCE),13.6
+P4,15/05/2009,Tétrachloroéthylène (PCE),<1
+P4,15/05/2009,TCE+PCE,13.6
+P4,13/10/2008,Chlorure de vinyle,"<0,5"
+P4,13/10/2008,"1,1-dichloroéthylène",<2
+P4,13/10/2008,Dichlorométhane,<5
+P4,13/10/2008,"Cis-1,2 Dichloroéthylène*",209
+P4,13/10/2008,Chloroforme,<2
+P4,13/10/2008,"1,1,1, Trichloroéthane",9.2
+P4,13/10/2008,"1,1-dichloroéthane",3.6
+P4,13/10/2008,"Trans-1,2 Dichloroéthylène*",<2
+P4,13/10/2008,"1,2-dichloroéthane",<1
+P4,13/10/2008,"1,1,2, Trichloroéthane",<5
+P4,13/10/2008,Bromochlorométhane,<5
+P4,13/10/2008,Dibromométhane,<5
+P4,13/10/2008,Bromodichlorométhane,<5
+P4,13/10/2008,Dibromochlorométhane,<2
+P4,13/10/2008,"1,2-dibromoéthane",<1
+P4,13/10/2008,Bromoforme,<5
+P4,13/10/2008,Tétrachlorure de carbone,<1
+P4,13/10/2008,Trichloroéthylène (TCE),22.3
+P4,13/10/2008,Tétrachloroéthylène (PCE),11.7
+P4,13/10/2008,TCE+PCE,34
+P4,01/04/2008,Chlorure de vinyle,"<0,5"
+P4,01/04/2008,"1,1-dichloroéthylène",<2
+P4,01/04/2008,Dichlorométhane,<5
+P4,01/04/2008,"Cis-1,2 Dichloroéthylène*",1050
+P4,01/04/2008,Chloroforme,<2
+P4,01/04/2008,"1,1,1, Trichloroéthane",15.5
+P4,01/04/2008,"1,1-dichloroéthane",12.7
+P4,01/04/2008,"Trans-1,2 Dichloroéthylène*",3.2
+P4,01/04/2008,"1,2-dichloroéthane",<1
+P4,01/04/2008,"1,1,2, Trichloroéthane",<5
+P4,01/04/2008,Bromochlorométhane,<5
+P4,01/04/2008,Dibromométhane,<5
+P4,01/04/2008,Bromodichlorométhane,<5
+P4,01/04/2008,Dibromochlorométhane,<2
+P4,01/04/2008,"1,2-dibromoéthane",<1
+P4,01/04/2008,Bromoforme,<5
+P4,01/04/2008,Tétrachlorure de carbone,<1
+P4,01/04/2008,Trichloroéthylène (TCE),92.1
+P4,01/04/2008,Tétrachloroéthylène (PCE),4.3
+P4,01/04/2008,TCE+PCE,96.4
+P4,01/07/2007,Chlorure de vinyle,"<0,5"
+P4,01/07/2007,"1,1-dichloroéthylène","<0,5"
+P4,01/07/2007,Dichlorométhane,"<0,5"
+P4,01/07/2007,"Cis-1,2 Dichloroéthylène*",390
+P4,01/07/2007,Chloroforme,"<0,5"
+P4,01/07/2007,"1,1,1, Trichloroéthane",3.6
+P4,01/07/2007,"1,1-dichloroéthane",
+P4,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P4,01/07/2007,"1,2-dichloroéthane",
+P4,01/07/2007,"1,1,2, Trichloroéthane",
+P4,01/07/2007,Bromochlorométhane,
+P4,01/07/2007,Dibromométhane,
+P4,01/07/2007,Bromodichlorométhane,
+P4,01/07/2007,Dibromochlorométhane,
+P4,01/07/2007,"1,2-dibromoéthane",
+P4,01/07/2007,Bromoforme,
+P4,01/07/2007,Tétrachlorure de carbone,"<0,5"
+P4,01/07/2007,Trichloroéthylène (TCE),15
+P4,01/07/2007,Tétrachloroéthylène (PCE),0.8
+P4,01/07/2007,TCE+PCE,15.8
+P4,01/12/2006,Chlorure de vinyle,0.9
+P4,01/12/2006,"1,1-dichloroéthylène",
+P4,01/12/2006,Dichlorométhane,0.5
+P4,01/12/2006,"Cis-1,2 Dichloroéthylène*",1600
+P4,01/12/2006,Chloroforme,"<0,5"
+P4,01/12/2006,"1,1,1, Trichloroéthane",27
+P4,01/12/2006,"1,1-dichloroéthane",
+P4,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P4,01/12/2006,"1,2-dichloroéthane",
+P4,01/12/2006,"1,1,2, Trichloroéthane",
+P4,01/12/2006,Bromochlorométhane,
+P4,01/12/2006,Dibromométhane,
+P4,01/12/2006,Bromodichlorométhane,
+P4,01/12/2006,Dibromochlorométhane,
+P4,01/12/2006,"1,2-dibromoéthane",
+P4,01/12/2006,Bromoforme,
+P4,01/12/2006,Tétrachlorure de carbone,"<0,5"
+P4,01/12/2006,Trichloroéthylène (TCE),75
+P4,01/12/2006,Tétrachloroéthylène (PCE),"<0,5"
+P4,01/12/2006,TCE+PCE,75
+P4,01/06/2006,Chlorure de vinyle,"<0,5"
+P4,01/06/2006,"1,1-dichloroéthylène",
+P4,01/06/2006,Dichlorométhane,"<0,5"
+P4,01/06/2006,"Cis-1,2 Dichloroéthylène*",1900
+P4,01/06/2006,Chloroforme,"<0,5"
+P4,01/06/2006,"1,1,1, Trichloroéthane",37
+P4,01/06/2006,"1,1-dichloroéthane",
+P4,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P4,01/06/2006,"1,2-dichloroéthane",
+P4,01/06/2006,"1,1,2, Trichloroéthane",
+P4,01/06/2006,Bromochlorométhane,
+P4,01/06/2006,Dibromométhane,
+P4,01/06/2006,Bromodichlorométhane,
+P4,01/06/2006,Dibromochlorométhane,
+P4,01/06/2006,"1,2-dibromoéthane",
+P4,01/06/2006,Bromoforme,
+P4,01/06/2006,Tétrachlorure de carbone,"<0,5"
+P4,01/06/2006,Trichloroéthylène (TCE),90
+P4,01/06/2006,Tétrachloroéthylène (PCE),"<0,5"
+P4,01/06/2006,TCE+PCE,90
+P4,01/12/2005,Chlorure de vinyle,"< 0,5"
+P4,01/12/2005,"1,1-dichloroéthylène",
+P4,01/12/2005,Dichlorométhane,"< 0,5"
+P4,01/12/2005,"Cis-1,2 Dichloroéthylène*",2400
+P4,01/12/2005,Chloroforme,"< 0,5"
+P4,01/12/2005,"1,1,1, Trichloroéthane",59
+P4,01/12/2005,"1,1-dichloroéthane",
+P4,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P4,01/12/2005,"1,2-dichloroéthane",
+P4,01/12/2005,"1,1,2, Trichloroéthane",
+P4,01/12/2005,Bromochlorométhane,
+P4,01/12/2005,Dibromométhane,
+P4,01/12/2005,Bromodichlorométhane,
+P4,01/12/2005,Dibromochlorométhane,
+P4,01/12/2005,"1,2-dibromoéthane",
+P4,01/12/2005,Bromoforme,
+P4,01/12/2005,Tétrachlorure de carbone,"< 0,5"
+P4,01/12/2005,Trichloroéthylène (TCE),170
+P4,01/12/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P4,01/12/2005,TCE+PCE,170
+P4,01/07/2005,Chlorure de vinyle,"< 0,5"
+P4,01/07/2005,"1,1-dichloroéthylène",
+P4,01/07/2005,Dichlorométhane,"< 0,5"
+P4,01/07/2005,"Cis-1,2 Dichloroéthylène*",660
+P4,01/07/2005,Chloroforme,"< 0,5"
+P4,01/07/2005,"1,1,1, Trichloroéthane",27
+P4,01/07/2005,"1,1-dichloroéthane",
+P4,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P4,01/07/2005,"1,2-dichloroéthane",
+P4,01/07/2005,"1,1,2, Trichloroéthane",
+P4,01/07/2005,Bromochlorométhane,
+P4,01/07/2005,Dibromométhane,
+P4,01/07/2005,Bromodichlorométhane,
+P4,01/07/2005,Dibromochlorométhane,
+P4,01/07/2005,"1,2-dibromoéthane",
+P4,01/07/2005,Bromoforme,
+P4,01/07/2005,Tétrachlorure de carbone,"< 0,5"
+P4,01/07/2005,Trichloroéthylène (TCE),73
+P4,01/07/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P4,01/07/2005,TCE+PCE,73
+P4,01/12/2004,Chlorure de vinyle,"< 0,5"
+P4,01/12/2004,"1,1-dichloroéthylène",
+P4,01/12/2004,Dichlorométhane,"< 0,5"
+P4,01/12/2004,"Cis-1,2 Dichloroéthylène*",710
+P4,01/12/2004,Chloroforme,"< 0,5"
+P4,01/12/2004,"1,1,1, Trichloroéthane",32
+P4,01/12/2004,"1,1-dichloroéthane",
+P4,01/12/2004,"Trans-1,2 Dichloroéthylène*",
+P4,01/12/2004,"1,2-dichloroéthane",
+P4,01/12/2004,"1,1,2, Trichloroéthane",
+P4,01/12/2004,Bromochlorométhane,
+P4,01/12/2004,Dibromométhane,
+P4,01/12/2004,Bromodichlorométhane,
+P4,01/12/2004,Dibromochlorométhane,
+P4,01/12/2004,"1,2-dibromoéthane",
+P4,01/12/2004,Bromoforme,
+P4,01/12/2004,Tétrachlorure de carbone,"< 0,5"
+P4,01/12/2004,Trichloroéthylène (TCE),86
+P4,01/12/2004,Tétrachloroéthylène (PCE),"< 0,5"
+P4,01/12/2004,TCE+PCE,86
+P16,01/11/2012,Chlorure de vinyle,<4
+P16,01/11/2012,"1,1-dichloroéthylène",<4
+P16,01/11/2012,Dichlorométhane,<20
+P16,01/11/2012,"Cis-1,2 Dichloroéthylène",1600
+P16,01/11/2012,Chloroforme,<4
+P16,01/11/2012,"1,1,1, Trichloroéthane",56
+P16,01/11/2012,"1,1-dichloroéthane",26
+P16,01/11/2012,"Trans-1,2 Dichloroéthylène*",130
+P16,01/11/2012,"1,2-dichloroéthane",<4
+P16,01/11/2012,"1,1,2, Trichloroéthane",
+P16,01/11/2012,Bromochlorométhane,
+P16,01/11/2012,Dibromométhane,
+P16,01/11/2012,Bromodichlorométhane,
+P16,01/11/2012,Dibromochlorométhane,
+P16,01/11/2012,"1,2-dibromoéthane",
+P16,01/11/2012,Bromoforme,
+P16,01/11/2012,Tétrachlorure de carbone,<4
+P16,01/11/2012,Trichloroéthylène (TCE),2500
+P16,01/11/2012,Tétrachloroéthylène (PCE),<4
+P16,01/11/2012,TCE+PCE,2500
+P16,01/05/2012,Chlorure de vinyle,42
+P16,01/05/2012,"1,1-dichloroéthylène",5.7
+P16,01/05/2012,Dichlorométhane,<20
+P16,01/05/2012,"Cis-1,2 Dichloroéthylène",1100
+P16,01/05/2012,Chloroforme,<4
+P16,01/05/2012,"1,1,1, Trichloroéthane",42
+P16,01/05/2012,"1,1-dichloroéthane",21
+P16,01/05/2012,"Trans-1,2 Dichloroéthylène*",130
+P16,01/05/2012,"1,2-dichloroéthane",<4
+P16,01/05/2012,"1,1,2, Trichloroéthane",
+P16,01/05/2012,Bromochlorométhane,
+P16,01/05/2012,Dibromométhane,
+P16,01/05/2012,Bromodichlorométhane,
+P16,01/05/2012,Dibromochlorométhane,
+P16,01/05/2012,"1,2-dibromoéthane",
+P16,01/05/2012,Bromoforme,
+P16,01/05/2012,Tétrachlorure de carbone,<4
+P16,01/05/2012,Trichloroéthylène (TCE),3000
+P16,01/05/2012,Tétrachloroéthylène (PCE),<4
+P16,01/05/2012,TCE+PCE,3000
+P16,28/10/2011,Chlorure de vinyle,3.74
+P16,28/10/2011,"1,1-dichloroéthylène",13.2
+P16,28/10/2011,Dichlorométhane,<5
+P16,28/10/2011,"Cis-1,2 Dichloroéthylène",2690
+P16,28/10/2011,Chloroforme,2.3
+P16,28/10/2011,"1,1,1, Trichloroéthane",125
+P16,28/10/2011,"1,1-dichloroéthane",46.3
+P16,28/10/2011,"Trans-1,2 Dichloroéthylène*",9.9
+P16,28/10/2011,"1,2-dichloroéthane",<1
+P16,28/10/2011,"1,1,2, Trichloroéthane",<5
+P16,28/10/2011,Bromochlorométhane,<5
+P16,28/10/2011,Dibromométhane,<5
+P16,28/10/2011,Bromodichlorométhane,<5
+P16,28/10/2011,Dibromochlorométhane,<2
+P16,28/10/2011,"1,2-dibromoéthane",<1
+P16,28/10/2011,Bromoforme,<5
+P16,28/10/2011,Tétrachlorure de carbone,<1
+P16,28/10/2011,Trichloroéthylène (TCE),8930
+P16,28/10/2011,Tétrachloroéthylène (PCE),1.9
+P16,28/10/2011,TCE+PCE,8931.9
+P16,15/04/2011,Chlorure de vinyle,<5
+P16,15/04/2011,"1,1-dichloroéthylène",7.7
+P16,15/04/2011,Dichlorométhane,<5
+P16,15/04/2011,"Cis-1,2 Dichloroéthylène",2700
+P16,15/04/2011,Chloroforme,<2
+P16,15/04/2011,"1,1,1, Trichloroéthane",228
+P16,15/04/2011,"1,1-dichloroéthane",59
+P16,15/04/2011,"Trans-1,2 Dichloroéthylène*",15.2
+P16,15/04/2011,"1,2-dichloroéthane",<1
+P16,15/04/2011,"1,1,2, Trichloroéthane",<5
+P16,15/04/2011,Bromochlorométhane,<5
+P16,15/04/2011,Dibromométhane,<5
+P16,15/04/2011,Bromodichlorométhane,<5
+P16,15/04/2011,Dibromochlorométhane,<2
+P16,15/04/2011,"1,2-dibromoéthane",<1
+P16,15/04/2011,Bromoforme,<5
+P16,15/04/2011,Tétrachlorure de carbone,<1
+P16,15/04/2011,Trichloroéthylène (TCE),5880
+P16,15/04/2011,Tétrachloroéthylène (PCE),1.4
+P16,15/04/2011,TCE+PCE,5881.4
+P16,28/10/2010,Chlorure de vinyle,3.33
+P16,28/10/2010,"1,1-dichloroéthylène",16
+P16,28/10/2010,Dichlorométhane,<5
+P16,28/10/2010,"Cis-1,2 Dichloroéthylène",3450
+P16,28/10/2010,Chloroforme,3.8
+P16,28/10/2010,"1,1,1, Trichloroéthane",89.8
+P16,28/10/2010,"1,1-dichloroéthane",34.4
+P16,28/10/2010,"Trans-1,2 Dichloroéthylène*",11.1
+P16,28/10/2010,"1,2-dichloroéthane",<1
+P16,28/10/2010,"1,1,2, Trichloroéthane",<5
+P16,28/10/2010,Bromochlorométhane,<5
+P16,28/10/2010,Dibromométhane,<5
+P16,28/10/2010,Bromodichlorométhane,<5
+P16,28/10/2010,Dibromochlorométhane,<2
+P16,28/10/2010,"1,2-dibromoéthane",<1
+P16,28/10/2010,Bromoforme,<5
+P16,28/10/2010,Tétrachlorure de carbone,12.4
+P16,28/10/2010,Trichloroéthylène (TCE),9670
+P16,28/10/2010,Tétrachloroéthylène (PCE),3
+P16,28/10/2010,TCE+PCE,9673
+P16,15/04/2010,Chlorure de vinyle,6.44
+P16,15/04/2010,"1,1-dichloroéthylène",17.7
+P16,15/04/2010,Dichlorométhane,<5
+P16,15/04/2010,"Cis-1,2 Dichloroéthylène",4150
+P16,15/04/2010,Chloroforme,<5
+P16,15/04/2010,"1,1,1, Trichloroéthane",75.4
+P16,15/04/2010,"1,1-dichloroéthane",36.1
+P16,15/04/2010,"Trans-1,2 Dichloroéthylène*",12.4
+P16,15/04/2010,"1,2-dichloroéthane",<1
+P16,15/04/2010,"1,1,2, Trichloroéthane",<5
+P16,15/04/2010,Bromochlorométhane,<5
+P16,15/04/2010,Dibromométhane,<5
+P16,15/04/2010,Bromodichlorométhane,<5
+P16,15/04/2010,Dibromochlorométhane,<2
+P16,15/04/2010,"1,2-dibromoéthane",<1
+P16,15/04/2010,Bromoforme,<5
+P16,15/04/2010,Tétrachlorure de carbone,<1
+P16,15/04/2010,Trichloroéthylène (TCE),9090
+P16,15/04/2010,Tétrachloroéthylène (PCE),2.8
+P16,15/04/2010,TCE+PCE,9092.8
+P16,28/10/2009,Chlorure de vinyle,0.99
+P16,28/10/2009,"1,1-dichloroéthylène",12.6
+P16,28/10/2009,Dichlorométhane,<5
+P16,28/10/2009,"Cis-1,2 Dichloroéthylène",2210
+P16,28/10/2009,Chloroforme,<3
+P16,28/10/2009,"1,1,1, Trichloroéthane",91.3
+P16,28/10/2009,"1,1-dichloroéthane",30.5
+P16,28/10/2009,"Trans-1,2 Dichloroéthylène*",9.7
+P16,28/10/2009,"1,2-dichloroéthane",<1
+P16,28/10/2009,"1,1,2, Trichloroéthane",<5
+P16,28/10/2009,Bromochlorométhane,<5
+P16,28/10/2009,Dibromométhane,<5
+P16,28/10/2009,Bromodichlorométhane,<5
+P16,28/10/2009,Dibromochlorométhane,<2
+P16,28/10/2009,"1,2-dibromoéthane",<1
+P16,28/10/2009,Bromoforme,<5
+P16,28/10/2009,Tétrachlorure de carbone,<1
+P16,28/10/2009,Trichloroéthylène (TCE),7950
+P16,28/10/2009,Tétrachloroéthylène (PCE),2.6
+P16,28/10/2009,TCE+PCE,7952.6
+P16,15/05/2009,Chlorure de vinyle,1.06
+P16,15/05/2009,"1,1-dichloroéthylène",13.4
+P16,15/05/2009,Dichlorométhane,<5
+P16,15/05/2009,"Cis-1,2 Dichloroéthylène",3860
+P16,15/05/2009,Chloroforme,3.4
+P16,15/05/2009,"1,1,1, Trichloroéthane",113
+P16,15/05/2009,"1,1-dichloroéthane",36.8
+P16,15/05/2009,"Trans-1,2 Dichloroéthylène*",13.9
+P16,15/05/2009,"1,2-dichloroéthane",<1
+P16,15/05/2009,"1,1,2, Trichloroéthane",<5
+P16,15/05/2009,Bromochlorométhane,<5
+P16,15/05/2009,Dibromométhane,<5
+P16,15/05/2009,Bromodichlorométhane,<5
+P16,15/05/2009,Dibromochlorométhane,<2
+P16,15/05/2009,"1,2-dibromoéthane",<1
+P16,15/05/2009,Bromoforme,<5
+P16,15/05/2009,Tétrachlorure de carbone,<1
+P16,15/05/2009,Trichloroéthylène (TCE),11500
+P16,15/05/2009,Tétrachloroéthylène (PCE),<4
+P16,15/05/2009,TCE+PCE,11500
+P16,13/10/2008,Chlorure de vinyle,1.08
+P16,13/10/2008,"1,1-dichloroéthylène",15.3
+P16,13/10/2008,Dichlorométhane,"<0,5"
+P16,13/10/2008,"Cis-1,2 Dichloroéthylène",3080
+P16,13/10/2008,Chloroforme,3.7
+P16,13/10/2008,"1,1,1, Trichloroéthane",109
+P16,13/10/2008,"1,1-dichloroéthane",32.9
+P16,13/10/2008,"Trans-1,2 Dichloroéthylène*",8.7
+P16,13/10/2008,"1,2-dichloroéthane",<1
+P16,13/10/2008,"1,1,2, Trichloroéthane",<5
+P16,13/10/2008,Bromochlorométhane,<5
+P16,13/10/2008,Dibromométhane,<5
+P16,13/10/2008,Bromodichlorométhane,<5
+P16,13/10/2008,Dibromochlorométhane,<2
+P16,13/10/2008,"1,2-dibromoéthane",<1
+P16,13/10/2008,Bromoforme,<5
+P16,13/10/2008,Tétrachlorure de carbone,<1
+P16,13/10/2008,Trichloroéthylène (TCE),11100
+P16,13/10/2008,Tétrachloroéthylène (PCE),3.2
+P16,13/10/2008,TCE+PCE,11103.2
+P16,01/04/2008,Chlorure de vinyle,"<0,5"
+P16,01/04/2008,"1,1-dichloroéthylène",13
+P16,01/04/2008,Dichlorométhane,"<0,5"
+P16,01/04/2008,"Cis-1,2 Dichloroéthylène",1500
+P16,01/04/2008,Chloroforme,2.8
+P16,01/04/2008,"1,1,1, Trichloroéthane",61
+P16,01/04/2008,"1,1-dichloroéthane",
+P16,01/04/2008,"Trans-1,2 Dichloroéthylène*",
+P16,01/04/2008,"1,2-dichloroéthane",
+P16,01/04/2008,"1,1,2, Trichloroéthane",
+P16,01/04/2008,Bromochlorométhane,
+P16,01/04/2008,Dibromométhane,
+P16,01/04/2008,Bromodichlorométhane,
+P16,01/04/2008,Dibromochlorométhane,
+P16,01/04/2008,"1,2-dibromoéthane",
+P16,01/04/2008,Bromoforme,
+P16,01/04/2008,Tétrachlorure de carbone,"<0,5"
+P16,01/04/2008,Trichloroéthylène (TCE),7300
+P16,01/04/2008,Tétrachloroéthylène (PCE),1.1
+P16,01/04/2008,TCE+PCE,7301.1
+P16,01/07/2007,Chlorure de vinyle,3
+P16,01/07/2007,"1,1-dichloroéthylène",
+P16,01/07/2007,Dichlorométhane,1.5
+P16,01/07/2007,"Cis-1,2 Dichloroéthylène",2100
+P16,01/07/2007,Chloroforme,5.2
+P16,01/07/2007,"1,1,1, Trichloroéthane",120
+P16,01/07/2007,"1,1-dichloroéthane",
+P16,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P16,01/07/2007,"1,2-dichloroéthane",
+P16,01/07/2007,"1,1,2, Trichloroéthane",
+P16,01/07/2007,Bromochlorométhane,
+P16,01/07/2007,Dibromométhane,
+P16,01/07/2007,Bromodichlorométhane,
+P16,01/07/2007,Dibromochlorométhane,
+P16,01/07/2007,"1,2-dibromoéthane",
+P16,01/07/2007,Bromoforme,
+P16,01/07/2007,Tétrachlorure de carbone,1
+P16,01/07/2007,Trichloroéthylène (TCE),10000
+P16,01/07/2007,Tétrachloroéthylène (PCE),"<0,5"
+P16,01/07/2007,TCE+PCE,10000
+P16,01/12/2006,Chlorure de vinyle,"<0,5"
+P16,01/12/2006,"1,1-dichloroéthylène",
+P16,01/12/2006,Dichlorométhane,1
+P16,01/12/2006,"Cis-1,2 Dichloroéthylène",2700
+P16,01/12/2006,Chloroforme,5.8
+P16,01/12/2006,"1,1,1, Trichloroéthane",120
+P16,01/12/2006,"1,1-dichloroéthane",
+P16,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P16,01/12/2006,"1,2-dichloroéthane",
+P16,01/12/2006,"1,1,2, Trichloroéthane",
+P16,01/12/2006,Bromochlorométhane,
+P16,01/12/2006,Dibromométhane,
+P16,01/12/2006,Bromodichlorométhane,
+P16,01/12/2006,Dibromochlorométhane,
+P16,01/12/2006,"1,2-dibromoéthane",
+P16,01/12/2006,Bromoforme,
+P16,01/12/2006,Tétrachlorure de carbone,0.9
+P16,01/12/2006,Trichloroéthylène (TCE),7200
+P16,01/12/2006,Tétrachloroéthylène (PCE),2.3
+P16,01/12/2006,TCE+PCE,7202.3
+P16,01/06/2006,Chlorure de vinyle,1.8
+P16,01/06/2006,"1,1-dichloroéthylène",
+P16,01/06/2006,Dichlorométhane,2.5
+P16,01/06/2006,"Cis-1,2 Dichloroéthylène",3000
+P16,01/06/2006,Chloroforme,11
+P16,01/06/2006,"1,1,1, Trichloroéthane",220
+P16,01/06/2006,"1,1-dichloroéthane",
+P16,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P16,01/06/2006,"1,2-dichloroéthane",
+P16,01/06/2006,"1,1,2, Trichloroéthane",
+P16,01/06/2006,Bromochlorométhane,
+P16,01/06/2006,Dibromométhane,
+P16,01/06/2006,Bromodichlorométhane,
+P16,01/06/2006,Dibromochlorométhane,
+P16,01/06/2006,"1,2-dibromoéthane",
+P16,01/06/2006,Bromoforme,
+P16,01/06/2006,Tétrachlorure de carbone,2.6
+P16,01/06/2006,Trichloroéthylène (TCE),14000
+P16,01/06/2006,Tétrachloroéthylène (PCE),7
+P16,01/06/2006,TCE+PCE,14007
+P16,01/12/2005,Chlorure de vinyle,"< 0,5"
+P16,01/12/2005,"1,1-dichloroéthylène",
+P16,01/12/2005,Dichlorométhane,"< 0,5"
+P16,01/12/2005,"Cis-1,2 Dichloroéthylène",1600
+P16,01/12/2005,Chloroforme,6.8
+P16,01/12/2005,"1,1,1, Trichloroéthane",170
+P16,01/12/2005,"1,1-dichloroéthane",
+P16,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P16,01/12/2005,"1,2-dichloroéthane",
+P16,01/12/2005,"1,1,2, Trichloroéthane",
+P16,01/12/2005,Bromochlorométhane,
+P16,01/12/2005,Dibromométhane,
+P16,01/12/2005,Bromodichlorométhane,
+P16,01/12/2005,Dibromochlorométhane,
+P16,01/12/2005,"1,2-dibromoéthane",
+P16,01/12/2005,Bromoforme,
+P16,01/12/2005,Tétrachlorure de carbone,1
+P16,01/12/2005,Trichloroéthylène (TCE),7900
+P16,01/12/2005,Tétrachloroéthylène (PCE),4
+P16,01/12/2005,TCE+PCE,7904
+P16,01/07/2005,Chlorure de vinyle,6.2
+P16,01/07/2005,"1,1-dichloroéthylène",
+P16,01/07/2005,Dichlorométhane,1.2
+P16,01/07/2005,"Cis-1,2 Dichloroéthylène",3600
+P16,01/07/2005,Chloroforme,8.2
+P16,01/07/2005,"1,1,1, Trichloroéthane",180
+P16,01/07/2005,"1,1-dichloroéthane",
+P16,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P16,01/07/2005,"1,2-dichloroéthane",
+P16,01/07/2005,"1,1,2, Trichloroéthane",
+P16,01/07/2005,Bromochlorométhane,
+P16,01/07/2005,Dibromométhane,
+P16,01/07/2005,Bromodichlorométhane,
+P16,01/07/2005,Dibromochlorométhane,
+P16,01/07/2005,"1,2-dibromoéthane",
+P16,01/07/2005,Bromoforme,
+P16,01/07/2005,Tétrachlorure de carbone,0.9
+P16,01/07/2005,Trichloroéthylène (TCE),17000
+P16,01/07/2005,Tétrachloroéthylène (PCE),4.9
+P16,01/07/2005,TCE+PCE,17004.9
+P16,01/12/2004,Chlorure de vinyle,4
+P16,01/12/2004,"1,1-dichloroéthylène",
+P16,01/12/2004,Dichlorométhane,1.2
+P16,01/12/2004,"Cis-1,2 Dichloroéthylène",2100
+P16,01/12/2004,Chloroforme,14
+P16,01/12/2004,"1,1,1, Trichloroéthane",160
+P16,01/12/2004,"1,1-dichloroéthane",
+P16,01/12/2004,"Trans-1,2 Dichloroéthylène*",
+P16,01/12/2004,"1,2-dichloroéthane",
+P16,01/12/2004,"1,1,2, Trichloroéthane",
+P16,01/12/2004,Bromochlorométhane,
+P16,01/12/2004,Dibromométhane,
+P16,01/12/2004,Bromodichlorométhane,
+P16,01/12/2004,Dibromochlorométhane,
+P16,01/12/2004,"1,2-dibromoéthane",
+P16,01/12/2004,Bromoforme,
+P16,01/12/2004,Tétrachlorure de carbone,1.3
+P16,01/12/2004,Trichloroéthylène (TCE),10000
+P16,01/12/2004,Tétrachloroéthylène (PCE),14
+P16,01/12/2004,TCE+PCE,10014
+P23,01/11/2012,Chlorure de vinyle,"<0,1"
+P23,01/11/2012,"1,1-dichloroéthylène",0.53
+P23,01/11/2012,Dichlorométhane,"<0,5"
+P23,01/11/2012,"Cis-1,2 Dichloroéthylène*",10
+P23,01/11/2012,Chloroforme,"<0,1"
+P23,01/11/2012,"1,1,1, Trichloroéthane",7.6
+P23,01/11/2012,"1,1-dichloroéthane",1.2
+P23,01/11/2012,"Trans-1,2 Dichloroéthylène*",0.63
+P23,01/11/2012,"1,2-dichloroéthane","<0,1"
+P23,01/11/2012,"1,1,2, Trichloroéthane",
+P23,01/11/2012,Bromochlorométhane,
+P23,01/11/2012,Dibromométhane,
+P23,01/11/2012,Bromodichlorométhane,
+P23,01/11/2012,Dibromochlorométhane,
+P23,01/11/2012,"1,2-dibromoéthane",
+P23,01/11/2012,Bromoforme,
+P23,01/11/2012,Tétrachlorure de carbone,"<0,1"
+P23,01/11/2012,Trichloroéthylène (TCE),26
+P23,01/11/2012,Tétrachloroéthylène (PCE),11
+P23,01/11/2012,TCE+PCE,37
+P23,01/05/2012,Chlorure de vinyle,"<0,1"
+P23,01/05/2012,"1,1-dichloroéthylène","<0,1"
+P23,01/05/2012,Dichlorométhane,"<0,5"
+P23,01/05/2012,"Cis-1,2 Dichloroéthylène*",5.8
+P23,01/05/2012,Chloroforme,0.11
+P23,01/05/2012,"1,1,1, Trichloroéthane",1.7
+P23,01/05/2012,"1,1-dichloroéthane",0.23
+P23,01/05/2012,"Trans-1,2 Dichloroéthylène*",0.33
+P23,01/05/2012,"1,2-dichloroéthane","<0,1"
+P23,01/05/2012,"1,1,2, Trichloroéthane",
+P23,01/05/2012,Bromochlorométhane,
+P23,01/05/2012,Dibromométhane,
+P23,01/05/2012,Bromodichlorométhane,
+P23,01/05/2012,Dibromochlorométhane,
+P23,01/05/2012,"1,2-dibromoéthane",
+P23,01/05/2012,Bromoforme,
+P23,01/05/2012,Tétrachlorure de carbone,"<0,1"
+P23,01/05/2012,Trichloroéthylène (TCE),23
+P23,01/05/2012,Tétrachloroéthylène (PCE),9.1
+P23,01/05/2012,TCE+PCE,32.1
+P23,28/10/2011,Chlorure de vinyle,"<0,5"
+P23,28/10/2011,"1,1-dichloroéthylène",<2
+P23,28/10/2011,Dichlorométhane,<5
+P23,28/10/2011,"Cis-1,2 Dichloroéthylène*",23.8
+P23,28/10/2011,Chloroforme,<2
+P23,28/10/2011,"1,1,1, Trichloroéthane",7.8
+P23,28/10/2011,"1,1-dichloroéthane",<2
+P23,28/10/2011,"Trans-1,2 Dichloroéthylène*",<2
+P23,28/10/2011,"1,2-dichloroéthane",<1
+P23,28/10/2011,"1,1,2, Trichloroéthane",<5
+P23,28/10/2011,Bromochlorométhane,<5
+P23,28/10/2011,Dibromométhane,<5
+P23,28/10/2011,Bromodichlorométhane,<5
+P23,28/10/2011,Dibromochlorométhane,<2
+P23,28/10/2011,"1,2-dibromoéthane",<1
+P23,28/10/2011,Bromoforme,<5
+P23,28/10/2011,Tétrachlorure de carbone,<1
+P23,28/10/2011,Trichloroéthylène (TCE),31.8
+P23,28/10/2011,Tétrachloroéthylène (PCE),7.3
+P23,28/10/2011,TCE+PCE,39.1
+P23,15/04/2011,Chlorure de vinyle,"<0,5"
+P23,15/04/2011,"1,1-dichloroéthylène",<2
+P23,15/04/2011,Dichlorométhane,<5
+P23,15/04/2011,"Cis-1,2 Dichloroéthylène*",10.2
+P23,15/04/2011,Chloroforme,<2
+P23,15/04/2011,"1,1,1, Trichloroéthane",3.4
+P23,15/04/2011,"1,1-dichloroéthane",<2
+P23,15/04/2011,"Trans-1,2 Dichloroéthylène*",<2
+P23,15/04/2011,"1,2-dichloroéthane",<1
+P23,15/04/2011,"1,1,2, Trichloroéthane",<5
+P23,15/04/2011,Bromochlorométhane,<5
+P23,15/04/2011,Dibromométhane,<5
+P23,15/04/2011,Bromodichlorométhane,<5
+P23,15/04/2011,Dibromochlorométhane,<2
+P23,15/04/2011,"1,2-dibromoéthane",<1
+P23,15/04/2011,Bromoforme,<5
+P23,15/04/2011,Tétrachlorure de carbone,<1
+P23,15/04/2011,Trichloroéthylène (TCE),24.7
+P23,15/04/2011,Tétrachloroéthylène (PCE),3.5
+P23,15/04/2011,TCE+PCE,18.2
+P23,28/10/2010,Chlorure de vinyle,"<0,5"
+P23,28/10/2010,"1,1-dichloroéthylène",<2
+P23,28/10/2010,Dichlorométhane,<5
+P23,28/10/2010,"Cis-1,2 Dichloroéthylène*",19.5
+P23,28/10/2010,Chloroforme,<2
+P23,28/10/2010,"1,1,1, Trichloroéthane",2.9
+P23,28/10/2010,"1,1-dichloroéthane",<2
+P23,28/10/2010,"Trans-1,2 Dichloroéthylène*",<2
+P23,28/10/2010,"1,2-dichloroéthane",<1
+P23,28/10/2010,"1,1,2, Trichloroéthane",<5
+P23,28/10/2010,Bromochlorométhane,<5
+P23,28/10/2010,Dibromométhane,<5
+P23,28/10/2010,Bromodichlorométhane,<5
+P23,28/10/2010,Dibromochlorométhane,<2
+P23,28/10/2010,"1,2-dibromoéthane",<1
+P23,28/10/2010,Bromoforme,<5
+P23,28/10/2010,Tétrachlorure de carbone,<1
+P23,28/10/2010,Trichloroéthylène (TCE),55.5
+P23,28/10/2010,Tétrachloroéthylène (PCE),7.2
+P23,28/10/2010,TCE+PCE,62.7
+P23,15/04/2010,Chlorure de vinyle,"<0,5"
+P23,15/04/2010,"1,1-dichloroéthylène",<2
+P23,15/04/2010,Dichlorométhane,<5
+P23,15/04/2010,"Cis-1,2 Dichloroéthylène*",25.3
+P23,15/04/2010,Chloroforme,<2
+P23,15/04/2010,"1,1,1, Trichloroéthane",4.9
+P23,15/04/2010,"1,1-dichloroéthane",<2
+P23,15/04/2010,"Trans-1,2 Dichloroéthylène*",<2
+P23,15/04/2010,"1,2-dichloroéthane",<1
+P23,15/04/2010,"1,1,2, Trichloroéthane",<5
+P23,15/04/2010,Bromochlorométhane,<5
+P23,15/04/2010,Dibromométhane,<5
+P23,15/04/2010,Bromodichlorométhane,<5
+P23,15/04/2010,Dibromochlorométhane,<2
+P23,15/04/2010,"1,2-dibromoéthane",<1
+P23,15/04/2010,Bromoforme,<5
+P23,15/04/2010,Tétrachlorure de carbone,<1
+P23,15/04/2010,Trichloroéthylène (TCE),61.8
+P23,15/04/2010,Tétrachloroéthylène (PCE),6.6
+P23,15/04/2010,TCE+PCE,68.4
+P23,28/10/2009,Chlorure de vinyle,"<0,5"
+P23,28/10/2009,"1,1-dichloroéthylène",<2
+P23,28/10/2009,Dichlorométhane,<5
+P23,28/10/2009,"Cis-1,2 Dichloroéthylène*",17.9
+P23,28/10/2009,Chloroforme,<2
+P23,28/10/2009,"1,1,1, Trichloroéthane",2.9
+P23,28/10/2009,"1,1-dichloroéthane",<2
+P23,28/10/2009,"Trans-1,2 Dichloroéthylène*",<2
+P23,28/10/2009,"1,2-dichloroéthane",<1
+P23,28/10/2009,"1,1,2, Trichloroéthane",<5
+P23,28/10/2009,Bromochlorométhane,<5
+P23,28/10/2009,Dibromométhane,<5
+P23,28/10/2009,Bromodichlorométhane,<5
+P23,28/10/2009,Dibromochlorométhane,<2
+P23,28/10/2009,"1,2-dibromoéthane",<1
+P23,28/10/2009,Bromoforme,<5
+P23,28/10/2009,Tétrachlorure de carbone,<1
+P23,28/10/2009,Trichloroéthylène (TCE),58.2
+P23,28/10/2009,Tétrachloroéthylène (PCE),5.4
+P23,28/10/2009,TCE+PCE,63.6
+P23,15/05/2009,Chlorure de vinyle,"<0,5"
+P23,15/05/2009,"1,1-dichloroéthylène",<2
+P23,15/05/2009,Dichlorométhane,<5
+P23,15/05/2009,"Cis-1,2 Dichloroéthylène*",28.9
+P23,15/05/2009,Chloroforme,<2
+P23,15/05/2009,"1,1,1, Trichloroéthane",<2
+P23,15/05/2009,"1,1-dichloroéthane",<2
+P23,15/05/2009,"Trans-1,2 Dichloroéthylène*",<2
+P23,15/05/2009,"1,2-dichloroéthane",<1
+P23,15/05/2009,"1,1,2, Trichloroéthane",<5
+P23,15/05/2009,Bromochlorométhane,<5
+P23,15/05/2009,Dibromométhane,<5
+P23,15/05/2009,Bromodichlorométhane,<5
+P23,15/05/2009,Dibromochlorométhane,<2
+P23,15/05/2009,"1,2-dibromoéthane",<1
+P23,15/05/2009,Bromoforme,<5
+P23,15/05/2009,Tétrachlorure de carbone,<1
+P23,15/05/2009,Trichloroéthylène (TCE),104
+P23,15/05/2009,Tétrachloroéthylène (PCE),7
+P23,15/05/2009,TCE+PCE,111
+P23,13/10/2008,Chlorure de vinyle,"<0,5"
+P23,13/10/2008,"1,1-dichloroéthylène",<2
+P23,13/10/2008,Dichlorométhane,<5
+P23,13/10/2008,"Cis-1,2 Dichloroéthylène*",121
+P23,13/10/2008,Chloroforme,<2
+P23,13/10/2008,"1,1,1, Trichloroéthane",10.3
+P23,13/10/2008,"1,1-dichloroéthane",<2
+P23,13/10/2008,"Trans-1,2 Dichloroéthylène*",<2
+P23,13/10/2008,"1,2-dichloroéthane",<1
+P23,13/10/2008,"1,1,2, Trichloroéthane",<5
+P23,13/10/2008,Bromochlorométhane,<5
+P23,13/10/2008,Dibromométhane,<5
+P23,13/10/2008,Bromodichlorométhane,<5
+P23,13/10/2008,Dibromochlorométhane,<2
+P23,13/10/2008,"1,2-dibromoéthane",<1
+P23,13/10/2008,Bromoforme,<5
+P23,13/10/2008,Tétrachlorure de carbone,<1
+P23,13/10/2008,Trichloroéthylène (TCE),102
+P23,13/10/2008,Tétrachloroéthylène (PCE),25.8
+P23,13/10/2008,TCE+PCE,127.8
+P23,01/04/2008,Chlorure de vinyle,"<0,5"
+P23,01/04/2008,"1,1-dichloroéthylène",<2
+P23,01/04/2008,Dichlorométhane,<5
+P23,01/04/2008,"Cis-1,2 Dichloroéthylène*",131
+P23,01/04/2008,Chloroforme,<2
+P23,01/04/2008,"1,1,1, Trichloroéthane",5.2
+P23,01/04/2008,"1,1-dichloroéthane",<2
+P23,01/04/2008,"Trans-1,2 Dichloroéthylène*",<2
+P23,01/04/2008,"1,2-dichloroéthane",<1
+P23,01/04/2008,"1,1,2, Trichloroéthane",<5
+P23,01/04/2008,Bromochlorométhane,<5
+P23,01/04/2008,Dibromométhane,<5
+P23,01/04/2008,Bromodichlorométhane,<5
+P23,01/04/2008,Dibromochlorométhane,<2
+P23,01/04/2008,"1,2-dibromoéthane",<1
+P23,01/04/2008,Bromoforme,<5
+P23,01/04/2008,Tétrachlorure de carbone,<1
+P23,01/04/2008,Trichloroéthylène (TCE),235
+P23,01/04/2008,Tétrachloroéthylène (PCE),12.1
+P23,01/04/2008,TCE+PCE,247.1
+P23,01/07/2007,Chlorure de vinyle,"<0,5"
+P23,01/07/2007,"1,1-dichloroéthylène","<0,5"
+P23,01/07/2007,Dichlorométhane,"<0,5"
+P23,01/07/2007,"Cis-1,2 Dichloroéthylène*",110
+P23,01/07/2007,Chloroforme,"<0,5"
+P23,01/07/2007,"1,1,1, Trichloroéthane",2.4
+P23,01/07/2007,"1,1-dichloroéthane",
+P23,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P23,01/07/2007,"1,2-dichloroéthane",
+P23,01/07/2007,"1,1,2, Trichloroéthane",
+P23,01/07/2007,Bromochlorométhane,
+P23,01/07/2007,Dibromométhane,
+P23,01/07/2007,Bromodichlorométhane,
+P23,01/07/2007,Dibromochlorométhane,
+P23,01/07/2007,"1,2-dibromoéthane",
+P23,01/07/2007,Bromoforme,
+P23,01/07/2007,Tétrachlorure de carbone,"<0,5"
+P23,01/07/2007,Trichloroéthylène (TCE),290
+P23,01/07/2007,Tétrachloroéthylène (PCE),4.9
+P23,01/07/2007,TCE+PCE,294.9
+P23,01/12/2006,Chlorure de vinyle,"<0,5"
+P23,01/12/2006,"1,1-dichloroéthylène",
+P23,01/12/2006,Dichlorométhane,1
+P23,01/12/2006,"Cis-1,2 Dichloroéthylène*",280
+P23,01/12/2006,Chloroforme,"<0,5"
+P23,01/12/2006,"1,1,1, Trichloroéthane",7.8
+P23,01/12/2006,"1,1-dichloroéthane",
+P23,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P23,01/12/2006,"1,2-dichloroéthane",
+P23,01/12/2006,"1,1,2, Trichloroéthane",
+P23,01/12/2006,Bromochlorométhane,
+P23,01/12/2006,Dibromométhane,
+P23,01/12/2006,Bromodichlorométhane,
+P23,01/12/2006,Dibromochlorométhane,
+P23,01/12/2006,"1,2-dibromoéthane",
+P23,01/12/2006,Bromoforme,
+P23,01/12/2006,Tétrachlorure de carbone,"<0,5"
+P23,01/12/2006,Trichloroéthylène (TCE),570
+P23,01/12/2006,Tétrachloroéthylène (PCE),6.1
+P23,01/12/2006,TCE+PCE,576.1
+P23,01/06/2006,Chlorure de vinyle,"<0,5"
+P23,01/06/2006,"1,1-dichloroéthylène",
+P23,01/06/2006,Dichlorométhane,"<0,5"
+P23,01/06/2006,"Cis-1,2 Dichloroéthylène*",120
+P23,01/06/2006,Chloroforme,"<0,5"
+P23,01/06/2006,"1,1,1, Trichloroéthane",8.1
+P23,01/06/2006,"1,1-dichloroéthane",
+P23,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P23,01/06/2006,"1,2-dichloroéthane",
+P23,01/06/2006,"1,1,2, Trichloroéthane",
+P23,01/06/2006,Bromochlorométhane,
+P23,01/06/2006,Dibromométhane,
+P23,01/06/2006,Bromodichlorométhane,
+P23,01/06/2006,Dibromochlorométhane,
+P23,01/06/2006,"1,2-dibromoéthane",
+P23,01/06/2006,Bromoforme,
+P23,01/06/2006,Tétrachlorure de carbone,"<0,5"
+P23,01/06/2006,Trichloroéthylène (TCE),330
+P23,01/06/2006,Tétrachloroéthylène (PCE),6.6
+P23,01/06/2006,TCE+PCE,336.6
+P23,01/12/2005,Chlorure de vinyle,*
+P23,01/12/2005,"1,1-dichloroéthylène",
+P23,01/12/2005,Dichlorométhane,*
+P23,01/12/2005,"Cis-1,2 Dichloroéthylène*",*
+P23,01/12/2005,Chloroforme,*
+P23,01/12/2005,"1,1,1, Trichloroéthane",*
+P23,01/12/2005,"1,1-dichloroéthane",
+P23,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P23,01/12/2005,"1,2-dichloroéthane",
+P23,01/12/2005,"1,1,2, Trichloroéthane",
+P23,01/12/2005,Bromochlorométhane,
+P23,01/12/2005,Dibromométhane,
+P23,01/12/2005,Bromodichlorométhane,
+P23,01/12/2005,Dibromochlorométhane,
+P23,01/12/2005,"1,2-dibromoéthane",
+P23,01/12/2005,Bromoforme,
+P23,01/12/2005,Tétrachlorure de carbone,*
+P23,01/12/2005,Trichloroéthylène (TCE),*
+P23,01/12/2005,Tétrachloroéthylène (PCE),*
+P23,01/12/2005,TCE+PCE,*
+P23,01/07/2005,Chlorure de vinyle,"< 0,5"
+P23,01/07/2005,"1,1-dichloroéthylène",
+P23,01/07/2005,Dichlorométhane,"< 0,5"
+P23,01/07/2005,"Cis-1,2 Dichloroéthylène*",210
+P23,01/07/2005,Chloroforme,"< 0,5"
+P23,01/07/2005,"1,1,1, Trichloroéthane",15
+P23,01/07/2005,"1,1-dichloroéthane",
+P23,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P23,01/07/2005,"1,2-dichloroéthane",
+P23,01/07/2005,"1,1,2, Trichloroéthane",
+P23,01/07/2005,Bromochlorométhane,
+P23,01/07/2005,Dibromométhane,
+P23,01/07/2005,Bromodichlorométhane,
+P23,01/07/2005,Dibromochlorométhane,
+P23,01/07/2005,"1,2-dibromoéthane",
+P23,01/07/2005,Bromoforme,
+P23,01/07/2005,Tétrachlorure de carbone,"< 0,5"
+P23,01/07/2005,Trichloroéthylène (TCE),670
+P23,01/07/2005,Tétrachloroéthylène (PCE),9.7
+P23,01/07/2005,TCE+PCE,679.7
+P23,01/12/2004,Chlorure de vinyle,"< 0,5"
+P23,01/12/2004,"1,1-dichloroéthylène",
+P23,01/12/2004,Dichlorométhane,"< 0,5"
+P23,01/12/2004,"Cis-1,2 Dichloroéthylène*",230
+P23,01/12/2004,Chloroforme,"< 0,5"
+P23,01/12/2004,"1,1,1, Trichloroéthane",19
+P23,01/12/2004,"1,1-dichloroéthane",
+P23,01/12/2004,"Trans-1,2 Dichloroéthylène*",
+P23,01/12/2004,"1,2-dichloroéthane",
+P23,01/12/2004,"1,1,2, Trichloroéthane",
+P23,01/12/2004,Bromochlorométhane,
+P23,01/12/2004,Dibromométhane,
+P23,01/12/2004,Bromodichlorométhane,
+P23,01/12/2004,Dibromochlorométhane,
+P23,01/12/2004,"1,2-dibromoéthane",
+P23,01/12/2004,Bromoforme,
+P23,01/12/2004,Tétrachlorure de carbone,"< 0,5"
+P23,01/12/2004,Trichloroéthylène (TCE),960
+P23,01/12/2004,Tétrachloroéthylène (PCE),9.6
+P23,01/12/2004,TCE+PCE,969.6
+P33,01/11/2012,Chlorure de vinyle,<1
+P33,01/11/2012,"1,1-dichloroéthylène",<1
+P33,01/11/2012,Dichlorométhane,"<0,5"
+P33,01/11/2012,"Cis-1,2 Dichloroéthylène*",51
+P33,01/11/2012,Chloroforme,0.33
+P33,01/11/2012,"1,1,1, Trichloroéthane",<1
+P33,01/11/2012,"1,1-dichloroéthane",0.63
+P33,01/11/2012,"Trans-1,2 Dichloroéthylène*",3.6
+P33,01/11/2012,"1,2-dichloroéthane","<0,1"
+P33,01/11/2012,"1,1,2, Trichloroéthane",
+P33,01/11/2012,Bromochlorométhane,
+P33,01/11/2012,Dibromométhane,
+P33,01/11/2012,Bromodichlorométhane,
+P33,01/11/2012,Dibromochlorométhane,
+P33,01/11/2012,"1,2-dibromoéthane",
+P33,01/11/2012,Bromoforme,
+P33,01/11/2012,Tétrachlorure de carbone,"<0,1"
+P33,01/11/2012,Trichloroéthylène (TCE),83
+P33,01/11/2012,Tétrachloroéthylène (PCE),0.63
+P33,01/11/2012,TCE+PCE,83.63
+P33,01/05/2012,Chlorure de vinyle,"<0,1"
+P33,01/05/2012,"1,1-dichloroéthylène",1.3
+P33,01/05/2012,Dichlorométhane,"<0,5"
+P33,01/05/2012,"Cis-1,2 Dichloroéthylène*",43
+P33,01/05/2012,Chloroforme,"<0,1"
+P33,01/05/2012,"1,1,1, Trichloroéthane","<0,1"
+P33,01/05/2012,"1,1-dichloroéthane","<0,1"
+P33,01/05/2012,"Trans-1,2 Dichloroéthylène*","<0,1"
+P33,01/05/2012,"1,2-dichloroéthane","<0,1"
+P33,01/05/2012,"1,1,2, Trichloroéthane",
+P33,01/05/2012,Bromochlorométhane,
+P33,01/05/2012,Dibromométhane,
+P33,01/05/2012,Bromodichlorométhane,
+P33,01/05/2012,Dibromochlorométhane,
+P33,01/05/2012,"1,2-dibromoéthane",
+P33,01/05/2012,Bromoforme,
+P33,01/05/2012,Tétrachlorure de carbone,"<0,1"
+P33,01/05/2012,Trichloroéthylène (TCE),120
+P33,01/05/2012,Tétrachloroéthylène (PCE),"<0,1"
+P33,01/05/2012,TCE+PCE,120
+P33,28/10/2011,Chlorure de vinyle,"<0,5"
+P33,28/10/2011,"1,1-dichloroéthylène",<2
+P33,28/10/2011,Dichlorométhane,<5
+P33,28/10/2011,"Cis-1,2 Dichloroéthylène*",55.6
+P33,28/10/2011,Chloroforme,<2
+P33,28/10/2011,"1,1,1, Trichloroéthane",<2
+P33,28/10/2011,"1,1-dichloroéthane",<2
+P33,28/10/2011,"Trans-1,2 Dichloroéthylène*",<2
+P33,28/10/2011,"1,2-dichloroéthane",<1
+P33,28/10/2011,"1,1,2, Trichloroéthane",<5
+P33,28/10/2011,Bromochlorométhane,<5
+P33,28/10/2011,Dibromométhane,<5
+P33,28/10/2011,Bromodichlorométhane,<5
+P33,28/10/2011,Dibromochlorométhane,<2
+P33,28/10/2011,"1,2-dibromoéthane",<1
+P33,28/10/2011,Bromoforme,<5
+P33,28/10/2011,Tétrachlorure de carbone,<1
+P33,28/10/2011,Trichloroéthylène (TCE),223
+P33,28/10/2011,Tétrachloroéthylène (PCE),<1
+P33,28/10/2011,TCE+PCE,223
+P33,15/04/2011,Chlorure de vinyle,"<0,5"
+P33,15/04/2011,"1,1-dichloroéthylène",<2
+P33,15/04/2011,Dichlorométhane,<5
+P33,15/04/2011,"Cis-1,2 Dichloroéthylène*",46.3
+P33,15/04/2011,Chloroforme,<2
+P33,15/04/2011,"1,1,1, Trichloroéthane",<2
+P33,15/04/2011,"1,1-dichloroéthane",<2
+P33,15/04/2011,"Trans-1,2 Dichloroéthylène*",<2
+P33,15/04/2011,"1,2-dichloroéthane",<1
+P33,15/04/2011,"1,1,2, Trichloroéthane",<5
+P33,15/04/2011,Bromochlorométhane,<5
+P33,15/04/2011,Dibromométhane,<5
+P33,15/04/2011,Bromodichlorométhane,<5
+P33,15/04/2011,Dibromochlorométhane,<2
+P33,15/04/2011,"1,2-dibromoéthane",<1
+P33,15/04/2011,Bromoforme,<5
+P33,15/04/2011,Tétrachlorure de carbone,<1
+P33,15/04/2011,Trichloroéthylène (TCE),91
+P33,15/04/2011,Tétrachloroéthylène (PCE),<1
+P33,15/04/2011,TCE+PCE,91
+P33,28/10/2010,Chlorure de vinyle,"<0,5"
+P33,28/10/2010,"1,1-dichloroéthylène",<2
+P33,28/10/2010,Dichlorométhane,<5
+P33,28/10/2010,"Cis-1,2 Dichloroéthylène*",51.8
+P33,28/10/2010,Chloroforme,<2
+P33,28/10/2010,"1,1,1, Trichloroéthane",<2
+P33,28/10/2010,"1,1-dichloroéthane",<2
+P33,28/10/2010,"Trans-1,2 Dichloroéthylène*",<2
+P33,28/10/2010,"1,2-dichloroéthane",<1
+P33,28/10/2010,"1,1,2, Trichloroéthane",<5
+P33,28/10/2010,Bromochlorométhane,<5
+P33,28/10/2010,Dibromométhane,<5
+P33,28/10/2010,Bromodichlorométhane,<5
+P33,28/10/2010,Dibromochlorométhane,<2
+P33,28/10/2010,"1,2-dibromoéthane",<1
+P33,28/10/2010,Bromoforme,<5
+P33,28/10/2010,Tétrachlorure de carbone,<1
+P33,28/10/2010,Trichloroéthylène (TCE),63.2
+P33,28/10/2010,Tétrachloroéthylène (PCE),<1
+P33,28/10/2010,TCE+PCE,63.2
+P33,15/04/2010,Chlorure de vinyle,"<0,5"
+P33,15/04/2010,"1,1-dichloroéthylène",<2
+P33,15/04/2010,Dichlorométhane,<5
+P33,15/04/2010,"Cis-1,2 Dichloroéthylène*",60.9
+P33,15/04/2010,Chloroforme,<2
+P33,15/04/2010,"1,1,1, Trichloroéthane",<2
+P33,15/04/2010,"1,1-dichloroéthane",<2
+P33,15/04/2010,"Trans-1,2 Dichloroéthylène*",<2
+P33,15/04/2010,"1,2-dichloroéthane",<1
+P33,15/04/2010,"1,1,2, Trichloroéthane",<5
+P33,15/04/2010,Bromochlorométhane,<5
+P33,15/04/2010,Dibromométhane,<5
+P33,15/04/2010,Bromodichlorométhane,<5
+P33,15/04/2010,Dibromochlorométhane,<2
+P33,15/04/2010,"1,2-dibromoéthane",<1
+P33,15/04/2010,Bromoforme,<5
+P33,15/04/2010,Tétrachlorure de carbone,<1
+P33,15/04/2010,Trichloroéthylène (TCE),38.7
+P33,15/04/2010,Tétrachloroéthylène (PCE),<1
+P33,15/04/2010,TCE+PCE,38.7
+P33,28/10/2009,Chlorure de vinyle,"<0,5"
+P33,28/10/2009,"1,1-dichloroéthylène",<2
+P33,28/10/2009,Dichlorométhane,<5
+P33,28/10/2009,"Cis-1,2 Dichloroéthylène*",51.3
+P33,28/10/2009,Chloroforme,<2
+P33,28/10/2009,"1,1,1, Trichloroéthane",<2
+P33,28/10/2009,"1,1-dichloroéthane",<2
+P33,28/10/2009,"Trans-1,2 Dichloroéthylène*",<2
+P33,28/10/2009,"1,2-dichloroéthane",<1
+P33,28/10/2009,"1,1,2, Trichloroéthane",<5
+P33,28/10/2009,Bromochlorométhane,<5
+P33,28/10/2009,Dibromométhane,<5
+P33,28/10/2009,Bromodichlorométhane,<5
+P33,28/10/2009,Dibromochlorométhane,<2
+P33,28/10/2009,"1,2-dibromoéthane",<1
+P33,28/10/2009,Bromoforme,<5
+P33,28/10/2009,Tétrachlorure de carbone,<1
+P33,28/10/2009,Trichloroéthylène (TCE),53.4
+P33,28/10/2009,Tétrachloroéthylène (PCE),<1
+P33,28/10/2009,TCE+PCE,53.4
+P33,15/05/2009,Chlorure de vinyle,"<0,5"
+P33,15/05/2009,"1,1-dichloroéthylène",<2
+P33,15/05/2009,Dichlorométhane,<5
+P33,15/05/2009,"Cis-1,2 Dichloroéthylène*",60.7
+P33,15/05/2009,Chloroforme,<2
+P33,15/05/2009,"1,1,1, Trichloroéthane",<2
+P33,15/05/2009,"1,1-dichloroéthane",<2
+P33,15/05/2009,"Trans-1,2 Dichloroéthylène*",<2
+P33,15/05/2009,"1,2-dichloroéthane",<1
+P33,15/05/2009,"1,1,2, Trichloroéthane",<5
+P33,15/05/2009,Bromochlorométhane,<5
+P33,15/05/2009,Dibromométhane,<5
+P33,15/05/2009,Bromodichlorométhane,<5
+P33,15/05/2009,Dibromochlorométhane,<2
+P33,15/05/2009,"1,2-dibromoéthane",<1
+P33,15/05/2009,Bromoforme,<5
+P33,15/05/2009,Tétrachlorure de carbone,<1
+P33,15/05/2009,Trichloroéthylène (TCE),47.3
+P33,15/05/2009,Tétrachloroéthylène (PCE),<1
+P33,15/05/2009,TCE+PCE,47.3
+P33,13/10/2008,Chlorure de vinyle,"<0,5"
+P33,13/10/2008,"1,1-dichloroéthylène",<2
+P33,13/10/2008,Dichlorométhane,<5
+P33,13/10/2008,"Cis-1,2 Dichloroéthylène*",62.9
+P33,13/10/2008,Chloroforme,<2
+P33,13/10/2008,"1,1,1, Trichloroéthane",<2
+P33,13/10/2008,"1,1-dichloroéthane",<2
+P33,13/10/2008,"Trans-1,2 Dichloroéthylène*",<2
+P33,13/10/2008,"1,2-dichloroéthane",<1
+P33,13/10/2008,"1,1,2, Trichloroéthane",<5
+P33,13/10/2008,Bromochlorométhane,<5
+P33,13/10/2008,Dibromométhane,<5
+P33,13/10/2008,Bromodichlorométhane,<5
+P33,13/10/2008,Dibromochlorométhane,<2
+P33,13/10/2008,"1,2-dibromoéthane",<1
+P33,13/10/2008,Bromoforme,<5
+P33,13/10/2008,Tétrachlorure de carbone,<1
+P33,13/10/2008,Trichloroéthylène (TCE),51.9
+P33,13/10/2008,Tétrachloroéthylène (PCE),9.1
+P33,13/10/2008,TCE+PCE,61
+P33,01/04/2008,Chlorure de vinyle,"<0,5"
+P33,01/04/2008,"1,1-dichloroéthylène",<2
+P33,01/04/2008,Dichlorométhane,<5
+P33,01/04/2008,"Cis-1,2 Dichloroéthylène*",66.5
+P33,01/04/2008,Chloroforme,<2
+P33,01/04/2008,"1,1,1, Trichloroéthane",<2
+P33,01/04/2008,"1,1-dichloroéthane",3.5
+P33,01/04/2008,"Trans-1,2 Dichloroéthylène*",<2
+P33,01/04/2008,"1,2-dichloroéthane",<1
+P33,01/04/2008,"1,1,2, Trichloroéthane",<5
+P33,01/04/2008,Bromochlorométhane,<5
+P33,01/04/2008,Dibromométhane,<5
+P33,01/04/2008,Bromodichlorométhane,<5
+P33,01/04/2008,Dibromochlorométhane,<2
+P33,01/04/2008,"1,2-dibromoéthane",<1
+P33,01/04/2008,Bromoforme,<5
+P33,01/04/2008,Tétrachlorure de carbone,<1
+P33,01/04/2008,Trichloroéthylène (TCE),93.6
+P33,01/04/2008,Tétrachloroéthylène (PCE),3.5
+P33,01/04/2008,TCE+PCE,97.1
+P33,01/07/2007,Chlorure de vinyle,"<0,5"
+P33,01/07/2007,"1,1-dichloroéthylène","<0,5"
+P33,01/07/2007,Dichlorométhane,"<0,5"
+P33,01/07/2007,"Cis-1,2 Dichloroéthylène*",39
+P33,01/07/2007,Chloroforme,"<0,5"
+P33,01/07/2007,"1,1,1, Trichloroéthane","<0,5"
+P33,01/07/2007,"1,1-dichloroéthane",
+P33,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P33,01/07/2007,"1,2-dichloroéthane",
+P33,01/07/2007,"1,1,2, Trichloroéthane",
+P33,01/07/2007,Bromochlorométhane,
+P33,01/07/2007,Dibromométhane,
+P33,01/07/2007,Bromodichlorométhane,
+P33,01/07/2007,Dibromochlorométhane,
+P33,01/07/2007,"1,2-dibromoéthane",
+P33,01/07/2007,Bromoforme,
+P33,01/07/2007,Tétrachlorure de carbone,"<0,5"
+P33,01/07/2007,Trichloroéthylène (TCE),44
+P33,01/07/2007,Tétrachloroéthylène (PCE),"<0,5"
+P33,01/07/2007,TCE+PCE,44
+P33,01/12/2006,Chlorure de vinyle,
+P33,01/12/2006,"1,1-dichloroéthylène",
+P33,01/12/2006,Dichlorométhane,
+P33,01/12/2006,"Cis-1,2 Dichloroéthylène*",
+P33,01/12/2006,Chloroforme,
+P33,01/12/2006,"1,1,1, Trichloroéthane",
+P33,01/12/2006,"1,1-dichloroéthane",
+P33,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P33,01/12/2006,"1,2-dichloroéthane",
+P33,01/12/2006,"1,1,2, Trichloroéthane",
+P33,01/12/2006,Bromochlorométhane,
+P33,01/12/2006,Dibromométhane,
+P33,01/12/2006,Bromodichlorométhane,
+P33,01/12/2006,Dibromochlorométhane,
+P33,01/12/2006,"1,2-dibromoéthane",
+P33,01/12/2006,Bromoforme,
+P33,01/12/2006,Tétrachlorure de carbone,
+P33,01/12/2006,Trichloroéthylène (TCE),
+P33,01/12/2006,Tétrachloroéthylène (PCE),
+P33,01/12/2006,TCE+PCE,
+P33,01/06/2006,Chlorure de vinyle,"<0,5"
+P33,01/06/2006,"1,1-dichloroéthylène",
+P33,01/06/2006,Dichlorométhane,"<0,5"
+P33,01/06/2006,"Cis-1,2 Dichloroéthylène*",15
+P33,01/06/2006,Chloroforme,"<0,5"
+P33,01/06/2006,"1,1,1, Trichloroéthane","<0,5"
+P33,01/06/2006,"1,1-dichloroéthane",
+P33,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P33,01/06/2006,"1,2-dichloroéthane",
+P33,01/06/2006,"1,1,2, Trichloroéthane",
+P33,01/06/2006,Bromochlorométhane,
+P33,01/06/2006,Dibromométhane,
+P33,01/06/2006,Bromodichlorométhane,
+P33,01/06/2006,Dibromochlorométhane,
+P33,01/06/2006,"1,2-dibromoéthane",
+P33,01/06/2006,Bromoforme,
+P33,01/06/2006,Tétrachlorure de carbone,"<0,5"
+P33,01/06/2006,Trichloroéthylène (TCE),14
+P33,01/06/2006,Tétrachloroéthylène (PCE),"<0,5"
+P33,01/06/2006,TCE+PCE,14
+P33,01/12/2005,Chlorure de vinyle,"< 0,5"
+P33,01/12/2005,"1,1-dichloroéthylène",
+P33,01/12/2005,Dichlorométhane,"< 0,5"
+P33,01/12/2005,"Cis-1,2 Dichloroéthylène*",46
+P33,01/12/2005,Chloroforme,0.6
+P33,01/12/2005,"1,1,1, Trichloroéthane","< 0,5"
+P33,01/12/2005,"1,1-dichloroéthane",
+P33,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P33,01/12/2005,"1,2-dichloroéthane",
+P33,01/12/2005,"1,1,2, Trichloroéthane",
+P33,01/12/2005,Bromochlorométhane,
+P33,01/12/2005,Dibromométhane,
+P33,01/12/2005,Bromodichlorométhane,
+P33,01/12/2005,Dibromochlorométhane,
+P33,01/12/2005,"1,2-dibromoéthane",
+P33,01/12/2005,Bromoforme,
+P33,01/12/2005,Tétrachlorure de carbone,"< 0,5"
+P33,01/12/2005,Trichloroéthylène (TCE),150
+P33,01/12/2005,Tétrachloroéthylène (PCE),1.2
+P33,01/12/2005,TCE+PCE,151.2
+P33,01/07/2005,Chlorure de vinyle,"< 0,5"
+P33,01/07/2005,"1,1-dichloroéthylène",
+P33,01/07/2005,Dichlorométhane,"< 0,5"
+P33,01/07/2005,"Cis-1,2 Dichloroéthylène*",34
+P33,01/07/2005,Chloroforme,"< 0,5"
+P33,01/07/2005,"1,1,1, Trichloroéthane","< 0,5"
+P33,01/07/2005,"1,1-dichloroéthane",
+P33,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P33,01/07/2005,"1,2-dichloroéthane",
+P33,01/07/2005,"1,1,2, Trichloroéthane",
+P33,01/07/2005,Bromochlorométhane,
+P33,01/07/2005,Dibromométhane,
+P33,01/07/2005,Bromodichlorométhane,
+P33,01/07/2005,Dibromochlorométhane,
+P33,01/07/2005,"1,2-dibromoéthane",
+P33,01/07/2005,Bromoforme,
+P33,01/07/2005,Tétrachlorure de carbone,"< 0,5"
+P33,01/07/2005,Trichloroéthylène (TCE),98
+P33,01/07/2005,Tétrachloroéthylène (PCE),1.7
+P33,01/07/2005,TCE+PCE,99.7
+P33,01/12/2004,Chlorure de vinyle,"< 0,5"
+P33,01/12/2004,"1,1-dichloroéthylène",
+P33,01/12/2004,Dichlorométhane,"< 0,5"
+P33,01/12/2004,"Cis-1,2 Dichloroéthylène*",24
+P33,01/12/2004,Chloroforme,0.6
+P33,01/12/2004,"1,1,1, Trichloroéthane","< 0,5"
+P33,01/12/2004,"1,1-dichloroéthane",
+P33,01/12/2004,"Trans-1,2 Dichloroéthylène*",
+P33,01/12/2004,"1,2-dichloroéthane",
+P33,01/12/2004,"1,1,2, Trichloroéthane",
+P33,01/12/2004,Bromochlorométhane,
+P33,01/12/2004,Dibromométhane,
+P33,01/12/2004,Bromodichlorométhane,
+P33,01/12/2004,Dibromochlorométhane,
+P33,01/12/2004,"1,2-dibromoéthane",
+P33,01/12/2004,Bromoforme,
+P33,01/12/2004,Tétrachlorure de carbone,"< 0,5"
+P33,01/12/2004,Trichloroéthylène (TCE),210
+P33,01/12/2004,Tétrachloroéthylène (PCE),2.3
+P33,01/12/2004,TCE+PCE,212.3
+P36,01/11/2012,Chlorure de vinyle,"<0,1"
+P36,01/11/2012,"1,1-dichloroéthylène","<0,1"
+P36,01/11/2012,Dichlorométhane,"<0,5"
+P36,01/11/2012,"Cis-1,2 Dichloroéthylène*",6.6
+P36,01/11/2012,Chloroforme,0.14
+P36,01/11/2012,"1,1,1, Trichloroéthane","<0,1"
+P36,01/11/2012,"1,1-dichloroéthane",0.19
+P36,01/11/2012,"Trans-1,2 Dichloroéthylène*",0.95
+P36,01/11/2012,"1,2-dichloroéthane","<0,1"
+P36,01/11/2012,"1,1,2, Trichloroéthane",
+P36,01/11/2012,Bromochlorométhane,
+P36,01/11/2012,Dibromométhane,
+P36,01/11/2012,Bromodichlorométhane,
+P36,01/11/2012,Dibromochlorométhane,
+P36,01/11/2012,"1,2-dibromoéthane",
+P36,01/11/2012,Bromoforme,
+P36,01/11/2012,Tétrachlorure de carbone,"<0,1"
+P36,01/11/2012,Trichloroéthylène (TCE),0.8
+P36,01/11/2012,Tétrachloroéthylène (PCE),0.25
+P36,01/11/2012,TCE+PCE,1.05
+P36,01/05/2012,Chlorure de vinyle,"<0,1"
+P36,01/05/2012,"1,1-dichloroéthylène","<0,1"
+P36,01/05/2012,Dichlorométhane,"<0,5"
+P36,01/05/2012,"Cis-1,2 Dichloroéthylène*",5.9
+P36,01/05/2012,Chloroforme,0.25
+P36,01/05/2012,"1,1,1, Trichloroéthane","<0,1"
+P36,01/05/2012,"1,1-dichloroéthane",0.16
+P36,01/05/2012,"Trans-1,2 Dichloroéthylène*","<0,1"
+P36,01/05/2012,"1,2-dichloroéthane","<0,1"
+P36,01/05/2012,"1,1,2, Trichloroéthane",
+P36,01/05/2012,Bromochlorométhane,
+P36,01/05/2012,Dibromométhane,
+P36,01/05/2012,Bromodichlorométhane,
+P36,01/05/2012,Dibromochlorométhane,
+P36,01/05/2012,"1,2-dibromoéthane",
+P36,01/05/2012,Bromoforme,
+P36,01/05/2012,Tétrachlorure de carbone,"<0,1"
+P36,01/05/2012,Trichloroéthylène (TCE),2
+P36,01/05/2012,Tétrachloroéthylène (PCE),0.14
+P36,01/05/2012,TCE+PCE,2.14
+P36,28/10/2011,Chlorure de vinyle,"<0,5"
+P36,28/10/2011,"1,1-dichloroéthylène",<2
+P36,28/10/2011,Dichlorométhane,<5
+P36,28/10/2011,"Cis-1,2 Dichloroéthylène*",24.7
+P36,28/10/2011,Chloroforme,<2
+P36,28/10/2011,"1,1,1, Trichloroéthane",<2
+P36,28/10/2011,"1,1-dichloroéthane",<2
+P36,28/10/2011,"Trans-1,2 Dichloroéthylène*",<2
+P36,28/10/2011,"1,2-dichloroéthane",<1
+P36,28/10/2011,"1,1,2, Trichloroéthane",<5
+P36,28/10/2011,Bromochlorométhane,<5
+P36,28/10/2011,Dibromométhane,<5
+P36,28/10/2011,Bromodichlorométhane,<5
+P36,28/10/2011,Dibromochlorométhane,<2
+P36,28/10/2011,"1,2-dibromoéthane",<1
+P36,28/10/2011,Bromoforme,<5
+P36,28/10/2011,Tétrachlorure de carbone,<1
+P36,28/10/2011,Trichloroéthylène (TCE),21.2
+P36,28/10/2011,Tétrachloroéthylène (PCE),<1
+P36,28/10/2011,TCE+PCE,21.2
+P36,15/04/2011,Chlorure de vinyle,"<0,5"
+P36,15/04/2011,"1,1-dichloroéthylène",<2
+P36,15/04/2011,Dichlorométhane,<5
+P36,15/04/2011,"Cis-1,2 Dichloroéthylène*",5.6
+P36,15/04/2011,Chloroforme,<2
+P36,15/04/2011,"1,1,1, Trichloroéthane",<2
+P36,15/04/2011,"1,1-dichloroéthane",<2
+P36,15/04/2011,"Trans-1,2 Dichloroéthylène*",<2
+P36,15/04/2011,"1,2-dichloroéthane",<1
+P36,15/04/2011,"1,1,2, Trichloroéthane",<5
+P36,15/04/2011,Bromochlorométhane,<5
+P36,15/04/2011,Dibromométhane,<5
+P36,15/04/2011,Bromodichlorométhane,<5
+P36,15/04/2011,Dibromochlorométhane,<2
+P36,15/04/2011,"1,2-dibromoéthane",<1
+P36,15/04/2011,Bromoforme,<5
+P36,15/04/2011,Tétrachlorure de carbone,<1
+P36,15/04/2011,Trichloroéthylène (TCE),2.9
+P36,15/04/2011,Tétrachloroéthylène (PCE),<1
+P36,15/04/2011,TCE+PCE,2.9
+P36,28/10/2010,Chlorure de vinyle,"<0,5"
+P36,28/10/2010,"1,1-dichloroéthylène",<2
+P36,28/10/2010,Dichlorométhane,6.3
+P36,28/10/2010,"Cis-1,2 Dichloroéthylène*",27.1
+P36,28/10/2010,Chloroforme,<2
+P36,28/10/2010,"1,1,1, Trichloroéthane",<2
+P36,28/10/2010,"1,1-dichloroéthane",<2
+P36,28/10/2010,"Trans-1,2 Dichloroéthylène*",<2
+P36,28/10/2010,"1,2-dichloroéthane",<1
+P36,28/10/2010,"1,1,2, Trichloroéthane",<5
+P36,28/10/2010,Bromochlorométhane,<5
+P36,28/10/2010,Dibromométhane,<5
+P36,28/10/2010,Bromodichlorométhane,<5
+P36,28/10/2010,Dibromochlorométhane,<2
+P36,28/10/2010,"1,2-dibromoéthane",<1
+P36,28/10/2010,Bromoforme,<5
+P36,28/10/2010,Tétrachlorure de carbone,<1
+P36,28/10/2010,Trichloroéthylène (TCE),45.1
+P36,28/10/2010,Tétrachloroéthylène (PCE),<1
+P36,28/10/2010,TCE+PCE,45.1
+P36,15/04/2010,Chlorure de vinyle,"<0,5"
+P36,15/04/2010,"1,1-dichloroéthylène",<2
+P36,15/04/2010,Dichlorométhane,<5
+P36,15/04/2010,"Cis-1,2 Dichloroéthylène*",9.6
+P36,15/04/2010,Chloroforme,<2
+P36,15/04/2010,"1,1,1, Trichloroéthane",<2
+P36,15/04/2010,"1,1-dichloroéthane",<2
+P36,15/04/2010,"Trans-1,2 Dichloroéthylène*",<2
+P36,15/04/2010,"1,2-dichloroéthane",<1
+P36,15/04/2010,"1,1,2, Trichloroéthane",<5
+P36,15/04/2010,Bromochlorométhane,<5
+P36,15/04/2010,Dibromométhane,<5
+P36,15/04/2010,Bromodichlorométhane,<5
+P36,15/04/2010,Dibromochlorométhane,<2
+P36,15/04/2010,"1,2-dibromoéthane",<1
+P36,15/04/2010,Bromoforme,<5
+P36,15/04/2010,Tétrachlorure de carbone,<1
+P36,15/04/2010,Trichloroéthylène (TCE),25.3
+P36,15/04/2010,Tétrachloroéthylène (PCE),<1
+P36,15/04/2010,TCE+PCE,25.3
+P36,28/10/2009,Chlorure de vinyle,"<0,5"
+P36,28/10/2009,"1,1-dichloroéthylène",<2
+P36,28/10/2009,Dichlorométhane,<5
+P36,28/10/2009,"Cis-1,2 Dichloroéthylène*",24.5
+P36,28/10/2009,Chloroforme,<2
+P36,28/10/2009,"1,1,1, Trichloroéthane",<2
+P36,28/10/2009,"1,1-dichloroéthane",<2
+P36,28/10/2009,"Trans-1,2 Dichloroéthylène*",<2
+P36,28/10/2009,"1,2-dichloroéthane",<1
+P36,28/10/2009,"1,1,2, Trichloroéthane",<5
+P36,28/10/2009,Bromochlorométhane,<5
+P36,28/10/2009,Dibromométhane,<5
+P36,28/10/2009,Bromodichlorométhane,<5
+P36,28/10/2009,Dibromochlorométhane,<2
+P36,28/10/2009,"1,2-dibromoéthane",<1
+P36,28/10/2009,Bromoforme,<5
+P36,28/10/2009,Tétrachlorure de carbone,<1
+P36,28/10/2009,Trichloroéthylène (TCE),60.5
+P36,28/10/2009,Tétrachloroéthylène (PCE),<1
+P36,28/10/2009,TCE+PCE,60.5
+P36,15/05/2009,Chlorure de vinyle,"<0,5"
+P36,15/05/2009,"1,1-dichloroéthylène",<2
+P36,15/05/2009,Dichlorométhane,<5
+P36,15/05/2009,"Cis-1,2 Dichloroéthylène*",40.2
+P36,15/05/2009,Chloroforme,<2
+P36,15/05/2009,"1,1,1, Trichloroéthane",<2
+P36,15/05/2009,"1,1-dichloroéthane",<2
+P36,15/05/2009,"Trans-1,2 Dichloroéthylène*",<2
+P36,15/05/2009,"1,2-dichloroéthane",<1
+P36,15/05/2009,"1,1,2, Trichloroéthane",<5
+P36,15/05/2009,Bromochlorométhane,<5
+P36,15/05/2009,Dibromométhane,<5
+P36,15/05/2009,Bromodichlorométhane,<5
+P36,15/05/2009,Dibromochlorométhane,<2
+P36,15/05/2009,"1,2-dibromoéthane",<1
+P36,15/05/2009,Bromoforme,<5
+P36,15/05/2009,Tétrachlorure de carbone,<1
+P36,15/05/2009,Trichloroéthylène (TCE),15.5
+P36,15/05/2009,Tétrachloroéthylène (PCE),<1
+P36,15/05/2009,TCE+PCE,15.5
+P36,13/10/2008,Chlorure de vinyle,"<0,5"
+P36,13/10/2008,"1,1-dichloroéthylène",<2
+P36,13/10/2008,Dichlorométhane,<5
+P36,13/10/2008,"Cis-1,2 Dichloroéthylène*",113
+P36,13/10/2008,Chloroforme,<2
+P36,13/10/2008,"1,1,1, Trichloroéthane",<2
+P36,13/10/2008,"1,1-dichloroéthane",<2
+P36,13/10/2008,"Trans-1,2 Dichloroéthylène*",<2
+P36,13/10/2008,"1,2-dichloroéthane",<1
+P36,13/10/2008,"1,1,2, Trichloroéthane",<5
+P36,13/10/2008,Bromochlorométhane,<5
+P36,13/10/2008,Dibromométhane,<5
+P36,13/10/2008,Bromodichlorométhane,<5
+P36,13/10/2008,Dibromochlorométhane,<2
+P36,13/10/2008,"1,2-dibromoéthane",<1
+P36,13/10/2008,Bromoforme,<5
+P36,13/10/2008,Tétrachlorure de carbone,<1
+P36,13/10/2008,Trichloroéthylène (TCE),60.2
+P36,13/10/2008,Tétrachloroéthylène (PCE),10.8
+P36,13/10/2008,TCE+PCE,71
+P36,01/04/2008,Chlorure de vinyle,"<0,5"
+P36,01/04/2008,"1,1-dichloroéthylène",<2
+P36,01/04/2008,Dichlorométhane,<5
+P36,01/04/2008,"Cis-1,2 Dichloroéthylène*",<2
+P36,01/04/2008,Chloroforme,<2
+P36,01/04/2008,"1,1,1, Trichloroéthane",<2
+P36,01/04/2008,"1,1-dichloroéthane",<2
+P36,01/04/2008,"Trans-1,2 Dichloroéthylène*",<2
+P36,01/04/2008,"1,2-dichloroéthane",<1
+P36,01/04/2008,"1,1,2, Trichloroéthane",<5
+P36,01/04/2008,Bromochlorométhane,<5
+P36,01/04/2008,Dibromométhane,<5
+P36,01/04/2008,Bromodichlorométhane,<5
+P36,01/04/2008,Dibromochlorométhane,<2
+P36,01/04/2008,"1,2-dibromoéthane",<1
+P36,01/04/2008,Bromoforme,<5
+P36,01/04/2008,Tétrachlorure de carbone,<1
+P36,01/04/2008,Trichloroéthylène (TCE),3.4
+P36,01/04/2008,Tétrachloroéthylène (PCE),5.2
+P36,01/04/2008,TCE+PCE,8.6
+P36,01/07/2007,Chlorure de vinyle,"<0,5"
+P36,01/07/2007,"1,1-dichloroéthylène","<0,5"
+P36,01/07/2007,Dichlorométhane,"<0,5"
+P36,01/07/2007,"Cis-1,2 Dichloroéthylène*",2.6
+P36,01/07/2007,Chloroforme,"<0,5"
+P36,01/07/2007,"1,1,1, Trichloroéthane","<0,5"
+P36,01/07/2007,"1,1-dichloroéthane",
+P36,01/07/2007,"Trans-1,2 Dichloroéthylène*",
+P36,01/07/2007,"1,2-dichloroéthane",
+P36,01/07/2007,"1,1,2, Trichloroéthane",
+P36,01/07/2007,Bromochlorométhane,
+P36,01/07/2007,Dibromométhane,
+P36,01/07/2007,Bromodichlorométhane,
+P36,01/07/2007,Dibromochlorométhane,
+P36,01/07/2007,"1,2-dibromoéthane",
+P36,01/07/2007,Bromoforme,
+P36,01/07/2007,Tétrachlorure de carbone,"<0,5"
+P36,01/07/2007,Trichloroéthylène (TCE),9.3
+P36,01/07/2007,Tétrachloroéthylène (PCE),"<0,5"
+P36,01/07/2007,TCE+PCE,9.3
+P36,01/12/2006,Chlorure de vinyle,"<0,5"
+P36,01/12/2006,"1,1-dichloroéthylène",
+P36,01/12/2006,Dichlorométhane,0.6
+P36,01/12/2006,"Cis-1,2 Dichloroéthylène*",8.6
+P36,01/12/2006,Chloroforme,0.9
+P36,01/12/2006,"1,1,1, Trichloroéthane","<0,5"
+P36,01/12/2006,"1,1-dichloroéthane",
+P36,01/12/2006,"Trans-1,2 Dichloroéthylène*",
+P36,01/12/2006,"1,2-dichloroéthane",
+P36,01/12/2006,"1,1,2, Trichloroéthane",
+P36,01/12/2006,Bromochlorométhane,
+P36,01/12/2006,Dibromométhane,
+P36,01/12/2006,Bromodichlorométhane,
+P36,01/12/2006,Dibromochlorométhane,
+P36,01/12/2006,"1,2-dibromoéthane",
+P36,01/12/2006,Bromoforme,
+P36,01/12/2006,Tétrachlorure de carbone,"<0,5"
+P36,01/12/2006,Trichloroéthylène (TCE),26
+P36,01/12/2006,Tétrachloroéthylène (PCE),"<0,5"
+P36,01/12/2006,TCE+PCE,26
+P36,01/06/2006,Chlorure de vinyle,"<0,5"
+P36,01/06/2006,"1,1-dichloroéthylène",
+P36,01/06/2006,Dichlorométhane,"<0,5"
+P36,01/06/2006,"Cis-1,2 Dichloroéthylène*",7
+P36,01/06/2006,Chloroforme,0.7
+P36,01/06/2006,"1,1,1, Trichloroéthane","<0,5"
+P36,01/06/2006,"1,1-dichloroéthane",
+P36,01/06/2006,"Trans-1,2 Dichloroéthylène*",
+P36,01/06/2006,"1,2-dichloroéthane",
+P36,01/06/2006,"1,1,2, Trichloroéthane",
+P36,01/06/2006,Bromochlorométhane,
+P36,01/06/2006,Dibromométhane,
+P36,01/06/2006,Bromodichlorométhane,
+P36,01/06/2006,Dibromochlorométhane,
+P36,01/06/2006,"1,2-dibromoéthane",
+P36,01/06/2006,Bromoforme,
+P36,01/06/2006,Tétrachlorure de carbone,"<0,5"
+P36,01/06/2006,Trichloroéthylène (TCE),21
+P36,01/06/2006,Tétrachloroéthylène (PCE),"<0,5"
+P36,01/06/2006,TCE+PCE,21
+P36,01/12/2005,Chlorure de vinyle,"< 0,5"
+P36,01/12/2005,"1,1-dichloroéthylène",
+P36,01/12/2005,Dichlorométhane,"< 0,5"
+P36,01/12/2005,"Cis-1,2 Dichloroéthylène*",13
+P36,01/12/2005,Chloroforme,1.6
+P36,01/12/2005,"1,1,1, Trichloroéthane","< 0,5"
+P36,01/12/2005,"1,1-dichloroéthane",
+P36,01/12/2005,"Trans-1,2 Dichloroéthylène*",
+P36,01/12/2005,"1,2-dichloroéthane",
+P36,01/12/2005,"1,1,2, Trichloroéthane",
+P36,01/12/2005,Bromochlorométhane,
+P36,01/12/2005,Dibromométhane,
+P36,01/12/2005,Bromodichlorométhane,
+P36,01/12/2005,Dibromochlorométhane,
+P36,01/12/2005,"1,2-dibromoéthane",
+P36,01/12/2005,Bromoforme,
+P36,01/12/2005,Tétrachlorure de carbone,"< 0,5"
+P36,01/12/2005,Trichloroéthylène (TCE),22
+P36,01/12/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P36,01/12/2005,TCE+PCE,22
+P36,01/07/2005,Chlorure de vinyle,"< 0,5"
+P36,01/07/2005,"1,1-dichloroéthylène",
+P36,01/07/2005,Dichlorométhane,"< 0,5"
+P36,01/07/2005,"Cis-1,2 Dichloroéthylène*",14
+P36,01/07/2005,Chloroforme,1.3
+P36,01/07/2005,"1,1,1, Trichloroéthane","< 0,5"
+P36,01/07/2005,"1,1-dichloroéthane",
+P36,01/07/2005,"Trans-1,2 Dichloroéthylène*",
+P36,01/07/2005,"1,2-dichloroéthane",
+P36,01/07/2005,"1,1,2, Trichloroéthane",
+P36,01/07/2005,Bromochlorométhane,
+P36,01/07/2005,Dibromométhane,
+P36,01/07/2005,Bromodichlorométhane,
+P36,01/07/2005,Dibromochlorométhane,
+P36,01/07/2005,"1,2-dibromoéthane",
+P36,01/07/2005,Bromoforme,
+P36,01/07/2005,Tétrachlorure de carbone,"< 0,5"
+P36,01/07/2005,Trichloroéthylène (TCE),43
+P36,01/07/2005,Tétrachloroéthylène (PCE),"< 0,5"
+P36,01/07/2005,TCE+PCE,43
